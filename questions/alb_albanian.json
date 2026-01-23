@@ -1,0 +1,60 @@
+{
+    "id": "alb_albanian",
+    "country": "Albania",
+    "language": "Albanian",
+    "questions": [
+        {
+            "id": "TQ_38_a_sq-AL",
+            "description": "'Inteligjenca artificiale' është kapaciteti i kompjuterëve për të kryer detyra që tradicionalisht mendohet se përfshijnë inteligjencën njerëzore. Kjo nënkupton formulimin e parashikimeve, sugjerimin e vendimeve ose gjenerimin e teksteve.",
+            "responses": {
+                "Aspak dakord": 1,
+                "Nuk jam dakord": 2,
+                "Dakord": 3,
+                "Plotësisht dakord": 4,
+                "Nuk e di": 0
+            },
+            "questions": [
+                {
+                    "id": "TT4G35A",
+                    "prompt": "Inteligjenca artificiale i ndihmon mësuesit të shkruajnë ose të përmirësojnë planet mësimore."
+                },
+                {
+                    "id": "TT4G35B",
+                    "prompt": "Inteligjenca artificiale u krijon mundësi mësuesve të përshtatin materialin mësimor me aftësitë e ndryshme të nxënësve."
+                },
+                {
+                    "id": "TT4G35C",
+                    "prompt": "Inteligjenca artificiale i ndihmon mësuesit të mbështesin individualisht nxënësit."
+                },
+                {
+                    "id": "TT4G35D",
+                    "prompt": "Inteligjenca artificiale mbështet nxënësit me nevoja specifike (p.sh., nxënës multilingual, nxënës me nevoja të veçanta arsimore)."
+                },
+                {
+                    "id": "TT4G35E",
+                    "prompt": "Inteligjenca artificiale i ndihmon mësuesit të automatizojnë detyrat administrative."
+                },
+                {
+                    "id": "TT4G35F",
+                    "prompt": "Inteligjenca artificale i lejon nxënësit të prezantojnë punën e të tjerëve si punën e tyre."
+                },
+                {
+                    "id": "TT4G35G",
+                    "prompt": "Inteligjenca artificiale bën rekomandime që mund të mos jenë të përshtatshme ose të sakta."
+                },
+                {
+                    "id": "TT4G35H",
+                    "prompt": "Inteligjenca artificiale thellon paragjykimet që shtojnë keqkuptimet e nxënësve."
+                },
+                {
+                    "id": "TT4G35I",
+                    "prompt": "Inteligjenca artificiale rrezikon privatësinë dhe sigurinë e të dhënave të nxënësve."
+                },
+                {
+                    "id": "TT4G35J",
+                    "prompt": "Inteligjenca artificiale sugjeron qasje të papërshtatshme pedagogjike që mësuesit mund të përdornin me nxënësit."
+                }
+            ]
+        }
+    ]
+}

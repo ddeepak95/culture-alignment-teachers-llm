@@ -1,0 +1,72 @@
+CNTRY_FULL,CNTRY,IDCNTRY,IDLANG_TQ,n_teachers_language,n_teachers_country,p_teacher_language,uid
+United Arab Emirates,ARE,784,English,6235,12688,0.491409206,are_english
+United Arab Emirates,ARE,784,Arabic,6453,12688,0.508590795,are_arabic
+Australia,AUS,36,English,6038,6038,1,aus_english
+Belgium,BEL,56,French,5386,10088,0.533901665,bel_french
+Belgium,BEL,56,Dutch,4702,10088,0.466098335,bel_dutch
+Flemish Comm. (Belgium),BFL,956,Dutch,7129,7129,1,bfl_dutch
+French Comm. (Belgium),BFR,56002,French,5386,5386,1,bfr_french
+Brazil,BRA,76,Portuguese,6003,6003,1,bra_portuguese
+Spain,ESP,724,Spanish,12703,17158,0.740354354,esp_spanish
+Spain,ESP,724,Catalan,3467,17158,0.202063178,esp_catalan
+Spain,ESP,724,Basque,213,17158,0.012414034,esp_basque
+Spain,ESP,724,Valencian,424,17158,0.024711505,esp_valencian
+Spain,ESP,724,Galician,351,17158,0.02045693,esp_galician
+France,FRA,250,French,4870,4870,1,fra_french
+Japan,JPN,392,Japanese,6914,6914,1,jpn_japanese
+Korea,KOR,410,Korean,6222,6222,1,kor_korean
+Morocco,MAR,504,Arabic,11017,11017,1,mar_arabic
+Netherlands,NLD,528,Dutch,2576,2576,1,nld_dutch
+New Zealand,NZL,554,Not administered,2733,2733,1,nzl_not_administered
+Saudi Arabia,SAU,682,English,789,11041,0.071460918,sau_english
+Saudi Arabia,SAU,682,Arabic,10252,11041,0.928539082,sau_arabic
+Slovenia,SVN,705,Slovenian,9163,9163,1,svn_slovenian
+Türkiye,TUR,792,Turkish,13961,13961,1,tur_turkish
+Albania,ALB,8,Albanian,4029,4029,1,alb_albanian
+Austria,AUT,40,German,4335,4335,1,aut_german
+Azerbaijan,AZE,31,Russian,422,4307,0.097980033,aze_russian
+Azerbaijan,AZE,31,Azerbaijani,3885,4307,0.902019968,aze_azerbaijani
+Bulgaria,BGR,100,Bulgarian,3629,3629,1,bgr_bulgarian
+Bahrain,BHR,48,English,932,3104,0.300257732,bhr_english
+Bahrain,BHR,48,Arabic,2172,3104,0.699742268,bhr_arabic
+Alberta (Canada),CAB,9134,English,1823,1823,1,cab_english
+Chile,CHL,152,Spanish,2319,2319,1,chl_spanish
+Colombia,COL,170,Spanish,3010,3010,1,col_spanish
+Costa Rica,CRI,188,Spanish,3026,3026,1,cri_spanish
+Shanghai (China),CSH,156001,Chinese,4078,4078,1,csh_chinese
+Cyprus,CYP,196,English,442,1793,0.246514222,cyp_english
+Cyprus,CYP,196,Greek,1351,1793,0.753485778,cyp_greek
+Czechia,CZE,203,Czech,6369,6369,1,cze_czech
+Denmark,DNK,208,Danish,5038,5038,1,dnk_danish
+Estonia,EST,233,Estonian,3339,3339,1,est_estonian
+Finland,FIN,246,Swedish,593,4300,0.137906977,fin_swedish
+Finland,FIN,246,Finnish,3707,4300,0.862093023,fin_finnish
+Croatia,HRV,191,Croatian,6660,6660,1,hrv_croatian
+Hungary,HUN,348,Hungarian,3890,3890,1,hun_hungarian
+Iceland,ISL,352,Icelandic,1427,1427,1,isl_icelandic
+Israel,ISR,376,Hebrew,2228,3227,0.690424543,isr_hebrew
+Israel,ISR,376,Arabic,999,3227,0.309575457,isr_arabic
+Italy,ITA,380,Italian,3874,3874,1,ita_italian
+Kazakhstan,KAZ,398,Russian,2362,7360,0.320923913,kaz_russian
+Kazakhstan,KAZ,398,Kazakh,4998,7360,0.679076087,kaz_kazakh
+Lithuania,LTU,440,Lithuanian,4223,4223,1,ltu_lithuanian
+Latvia,LVA,428,Latvian,4088,4088,1,lva_latvian
+Republic of North Macedonia,MKD,807,Albanian,1157,3992,0.289829659,mkd_albanian
+Republic of North Macedonia,MKD,807,Macedonian,2835,3992,0.710170341,mkd_macedonian
+Malta,MLT,470,English,2263,2263,1,mlt_english
+Montenegro,MNE,499,Montenegrin (Latin),1354,1354,1,mne_montenegrin
+Norway,NOR,578,Bokmål,1390,1528,0.909685864,nor_bok
+Norway,NOR,578,Nynorsk,138,1528,0.090314136,nor_nynorsk
+Poland,POL,616,Polish,3783,3783,1,pol_polish
+Portugal,PRT,620,Portuguese,7389,7389,1,prt_portuguese
+Romania,ROU,9642,Romanian,3873,3873,1,rou_romanian
+Singapore,SGP,702,English,3355,3355,1,sgp_english
+Serbia,SRB,688,Serbian (Cyrillic),4007,4007,1,srb_serbian
+Slovak Republic,SVK,703,Slovak,4190,4190,1,svk_slovak
+Sweden,SWE,752,Swedish,3065,3065,1,swe_swedish
+United States,USA,840,English,1988,1988,1,usa_english
+Uzbekistan,UZB,860,Russian,180,4431,0.040622884,uzb_russian
+Uzbekistan,UZB,860,Uzbek (Latin),4251,4431,0.959377116,uzb_uzbek
+Viet Nam,VNM,704,Vietnamese,4348,4348,1,vnm_vietnamese
+Kosovo,XKX,411,Albanian,3281,3281,1,xkx_albanian
+South Africa,ZAF,710,English,3301,3301,1,zaf_english

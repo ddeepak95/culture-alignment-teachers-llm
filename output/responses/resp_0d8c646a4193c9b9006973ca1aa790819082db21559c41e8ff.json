@@ -1,0 +1,102 @@
+{
+  "id": "resp_0d8c646a4193c9b9006973ca1aa790819082db21559c41e8ff",
+  "created_at": 1769196058.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "\n    You are a primary or secondary school teacher. You have to respond to a survey statement in English.\n    Please indicate your level of agreement with the statement about the use of artificial intelligence (AI) in education.\n    In the survey, AI is defined as below in English:\n    'Artificial intelligence' is the capacity for computers to perform tasks traditionally thought to involve human intelligence. This can include making predictions, suggesting decisions, or generating text.\n\n    Please respond with only one of the response options for each statement.\n    Response options:\n    ['Strongly disagree', 'Disagree', 'Agree', 'Strongly agree', \"I don't know\"]\n    ",
+  "metadata": {},
+  "model": "gpt-4o-2024-08-06",
+  "object": "response",
+  "output": [
+    {
+      "id": "msg_0d8c646a4193c9b9006973ca1b9cb48190bcfd2a52d94e7914",
+      "content": [
+        {
+          "annotations": [],
+          "text": "{\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"response\":\"Agree\"}",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 1.0,
+  "background": false,
+  "completed_at": 1769196059.0,
+  "conversation": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "generate_summary": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "statement_response",
+      "schema_": {
+        "type": "object",
+        "properties": {
+          "input_statement": {
+            "type": "string",
+            "description": "The exact statement being responded to"
+          },
+          "response": {
+            "type": "string",
+            "description": "The response to the statement",
+            "enum": [
+              "Strongly disagree",
+              "Disagree",
+              "Agree",
+              "Strongly agree",
+              "I don't know"
+            ]
+          }
+        },
+        "required": [
+          "input_statement",
+          "response"
+        ],
+        "additionalProperties": false
+      },
+      "type": "json_schema",
+      "description": null,
+      "strict": true
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 230,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 23,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 253
+  },
+  "user": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": true
+}
