@@ -1,0 +1,40 @@
+{
+  "id": "Cl12ab2lK8bg_uMP44nTkAE",
+  "created": 1769364745,
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"input_statement\": \"Artificial intelligence helps teachers write or improve lesson plans.\",\n  \"response\": \"I don't know\"\n}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "images": [],
+        "thinking_blocks": []
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 153,
+    "total_tokens": 186,
+    "completion_tokens_details": {
+      "text_tokens": 33
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 153,
+      "image_tokens": null
+    },
+    "cache_read_input_tokens": null
+  },
+  "vertex_ai_grounding_metadata": [],
+  "vertex_ai_url_context_metadata": [],
+  "vertex_ai_safety_results": [],
+  "vertex_ai_citation_metadata": []
+}

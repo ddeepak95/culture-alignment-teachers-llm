@@ -1,0 +1,40 @@
+{
+  "id": "sl12ad6TLJip_uMPmMa10Q8",
+  "created": 1769364913,
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"input_statement\": \"Artificial intelligence jeopardises the privacy and security of student data.\",\n  \"response\": \"Agree\"\n}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "images": [],
+        "thinking_blocks": []
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 31,
+    "prompt_tokens": 154,
+    "total_tokens": 185,
+    "completion_tokens_details": {
+      "text_tokens": 31
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 154,
+      "image_tokens": null
+    },
+    "cache_read_input_tokens": null
+  },
+  "vertex_ai_grounding_metadata": [],
+  "vertex_ai_url_context_metadata": [],
+  "vertex_ai_safety_results": [],
+  "vertex_ai_citation_metadata": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "A112abC3L5G9_uMPltDueA",
+  "created": 1769364738,
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"input_statement\": \"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\n  \"response\": \"I don't know\"\n}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "images": [],
+        "thinking_blocks": []
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 163,
+    "total_tokens": 208,
+    "completion_tokens_details": {
+      "text_tokens": 45
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 163,
+      "image_tokens": null
+    },
+    "cache_read_input_tokens": null
+  },
+  "vertex_ai_grounding_metadata": [],
+  "vertex_ai_url_context_metadata": [],
+  "vertex_ai_safety_results": [],
+  "vertex_ai_citation_metadata": []
+}

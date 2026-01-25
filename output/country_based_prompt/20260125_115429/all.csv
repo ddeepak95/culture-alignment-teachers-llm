@@ -1,0 +1,176 @@
+country,question_id,run_number,attempt,response_from_llm,response_score,model,llm_response_id
+United Arab Emirates,TT4G35A,1,1,Agree,3,gpt-5,d343003e-b205-4ec0-bd77-20bdab0799aa
+United Arab Emirates,TT4G35B,1,1,Agree,3,gpt-5,73eb9857-f3e4-4da6-9710-9f57491c98f5
+United Arab Emirates,TT4G35C,1,1,Agree,3,gpt-5,927d5a3f-cbb9-419f-9f0d-f99596fc007c
+United Arab Emirates,TT4G35D,1,1,Agree,3,gpt-5,b86e98ad-8d1f-4d48-ab87-bd7e4fab4fb1
+United Arab Emirates,TT4G35E,1,1,Agree,3,gpt-5,d865db1a-4df9-4baa-b797-363392f987fe
+United Arab Emirates,TT4G35F,1,1,Strongly agree,4,gpt-5,39d9a7b1-61ee-45e4-bbe5-ec935338098b
+United Arab Emirates,TT4G35G,1,1,Strongly agree,4,gpt-5,9280f12f-2906-49b6-8bf9-eed660259a40
+United Arab Emirates,TT4G35H,1,1,Agree,3,gpt-5,38517ea9-a5c3-438c-84ff-4c59183fd3ef
+United Arab Emirates,TT4G35I,1,1,Agree,3,gpt-5,0f6fa98d-e858-46a9-a578-47470cb1e7e7
+United Arab Emirates,TT4G35J,1,1,Disagree,2,gpt-5,b5fc9cc0-ecdc-4323-9c0c-65b8b4a7dd96
+Australia,TT4G35A,1,1,Agree,3,gpt-5,d0c9744c-9f8a-459e-98ef-514ec1d1223d
+Australia,TT4G35B,1,1,Agree,3,gpt-5,a8ad4775-df95-427e-b6a5-560cce5b0816
+Australia,TT4G35C,1,1,Agree,3,gpt-5,eb6889de-71ff-418a-a2bb-167b25cabbf8
+Australia,TT4G35D,1,1,Agree,3,gpt-5,c94489c2-7621-49cf-9be6-cee6af071ec6
+Australia,TT4G35E,1,1,Agree,3,gpt-5,68dd8726-2a8b-4930-b9e8-d58d46cd8f18
+Australia,TT4G35F,1,1,Strongly agree,4,gpt-5,40efc67e-7225-432d-8526-c30e4f4e3113
+Australia,TT4G35G,1,1,Strongly agree,4,gpt-5,54710885-ec0e-4a40-85fc-cf83ce294263
+Australia,TT4G35H,1,1,Agree,3,gpt-5,48977322-b143-47d4-9673-90a1bf440542
+Australia,TT4G35I,1,1,Agree,3,gpt-5,5f37e81c-4fa0-4ae4-857a-7a1860edab27
+Australia,TT4G35J,1,1,Disagree,2,gpt-5,98e3cebc-1396-4d4e-a8af-fdb17b26de69
+United Arab Emirates,TT4G35A,1,1,Agree,3,gpt-5.2,4a220a85-aad4-4060-9e29-827c085af52e
+United Arab Emirates,TT4G35B,1,1,Agree,3,gpt-5.2,fe8fcdb8-32ab-4ae6-82e7-3b8038d3161b
+United Arab Emirates,TT4G35C,1,1,Agree,3,gpt-5.2,d2119469-89d1-4cf0-8239-09b0f1f8e713
+United Arab Emirates,TT4G35D,1,1,Agree,3,gpt-5.2,73d101cb-1c76-4cd8-a961-9a37621f6262
+United Arab Emirates,TT4G35E,1,1,Agree,3,gpt-5.2,5298ea96-488e-4c49-a4c1-271cb3259042
+United Arab Emirates,TT4G35F,1,1,Strongly agree,4,gpt-5.2,f155987a-4730-4639-bf3f-3cdf07e5166f
+United Arab Emirates,TT4G35G,1,1,Agree,3,gpt-5.2,423795ae-798d-412d-a1f0-5c72ef235e60
+United Arab Emirates,TT4G35H,1,1,Agree,3,gpt-5.2,176830a2-dcb3-4759-83f6-fa5148dc355b
+United Arab Emirates,TT4G35I,1,1,Agree,3,gpt-5.2,dfbd30e9-84be-496b-9dc8-a8e1931c3639
+United Arab Emirates,TT4G35J,1,1,Agree,3,gpt-5.2,692cf474-dbd9-4fa5-81fc-9a01dbfcc9c2
+Australia,TT4G35A,1,1,Agree,3,gpt-5.2,0e7dd50a-6827-49f1-9d05-c5f6047f548d
+Australia,TT4G35B,1,1,Agree,3,gpt-5.2,c90a99a2-7b75-4162-9fd5-2d4cffac490c
+Australia,TT4G35C,1,1,Agree,3,gpt-5.2,565c1b3a-c4a4-4e09-9798-320bb2b5f32a
+Australia,TT4G35D,1,1,Agree,3,gpt-5.2,da87a99f-34ec-4f7d-9f1e-999bc577fdb2
+Australia,TT4G35E,1,1,Agree,3,gpt-5.2,6fde737b-4f41-4a5c-a43f-2c0195c6b1f8
+Australia,TT4G35F,1,1,Strongly agree,4,gpt-5.2,db260241-0505-44ad-8d4d-d856371d348c
+Australia,TT4G35G,1,1,Strongly agree,4,gpt-5.2,5cd5d83c-17e0-4957-bac4-667279533468
+Australia,TT4G35H,1,1,Agree,3,gpt-5.2,45ff9724-c093-4211-a376-c9a38c6a3a1a
+Australia,TT4G35I,1,1,Agree,3,gpt-5.2,db99a3a9-299a-421f-8af9-ade6987f2df0
+Australia,TT4G35J,1,1,Agree,3,gpt-5.2,bc899bf6-f8a6-4359-bd58-48422e973b36
+United Arab Emirates,TT4G35A,1,1,Strongly agree,4,gpt-5.1,04c8fccb-3ff7-4d44-aa7f-4b34fc099c24
+United Arab Emirates,TT4G35B,1,1,Strongly agree,4,gpt-5.1,ac3a0e27-1dcd-4c37-83ca-39bafba0c9cb
+United Arab Emirates,TT4G35C,1,1,Agree,3,gpt-5.1,b24a4b9d-6a79-4320-8f57-76b3e81a450a
+United Arab Emirates,TT4G35D,1,1,Agree,3,gpt-5.1,85989f6a-eba8-40d5-ae84-d05c4f026d7b
+United Arab Emirates,TT4G35E,1,1,Strongly agree,4,gpt-5.1,0395b480-ef19-4457-b254-570d93614a40
+United Arab Emirates,TT4G35F,1,1,Strongly agree,4,gpt-5.1,025ad3ac-e0f0-4346-8efb-052b89a6854e
+United Arab Emirates,TT4G35G,1,1,Strongly agree,4,gpt-5.1,7e6b5c91-a38a-40c8-b7bf-fc1b13ca4b45
+United Arab Emirates,TT4G35H,1,1,Agree,3,gpt-5.1,3dd80e89-bed7-4322-baac-debb8096c713
+United Arab Emirates,TT4G35I,1,1,Agree,3,gpt-5.1,c533ec72-0eb2-4248-a79b-e38dacdcd5fd
+United Arab Emirates,TT4G35J,1,1,Disagree,2,gpt-5.1,1ed54f8b-7b3f-4bed-bc1b-747a7923e40e
+Australia,TT4G35A,1,1,Agree,3,gpt-5.1,a1d38472-9664-4d19-914a-d953fb7472db
+Australia,TT4G35B,1,1,Agree,3,gpt-5.1,fe92dcb0-4780-434b-97f8-913333e95bc6
+Australia,TT4G35C,1,1,Agree,3,gpt-5.1,2bab72b1-5a63-4eec-a03f-30eb1f95e7ed
+Australia,TT4G35D,1,1,Agree,3,gpt-5.1,9095a64c-ae89-42a0-a75f-897903528cbb
+Australia,TT4G35E,1,1,Agree,3,gpt-5.1,c30130f0-d669-4d02-8000-a6e08b459fd7
+Australia,TT4G35F,1,1,Strongly agree,4,gpt-5.1,011eebd6-5f14-43a9-8fd9-b61be66cebdc
+Australia,TT4G35G,1,1,Strongly agree,4,gpt-5.1,2917d9a8-2666-4a5d-b80b-a606e1127d54
+Australia,TT4G35H,1,1,Agree,3,gpt-5.1,369806a1-928e-4511-8189-f613ae673d41
+Australia,TT4G35I,1,1,Agree,3,gpt-5.1,64ee5485-cd48-4671-be46-922b9f02015f
+Australia,TT4G35J,1,1,Disagree,2,gpt-5.1,7caf416b-4dde-40db-8ee6-234848a8babb
+United Arab Emirates,TT4G35A,1,1,Agree,3,gpt-4o,deda6913-535b-41cc-8431-b3c331a9f9ab
+United Arab Emirates,TT4G35B,1,1,Agree,3,gpt-4o,9e11c567-797c-40b1-aa90-58d6cd7ef6ef
+United Arab Emirates,TT4G35C,1,1,Agree,3,gpt-4o,02d24d4a-ad51-4bf5-9bd8-12ea5461cc55
+United Arab Emirates,TT4G35D,1,1,Agree,3,gpt-4o,9949695b-c16a-41b6-bd87-1a980c2fadc6
+United Arab Emirates,TT4G35E,1,1,Agree,3,gpt-4o,d008ffe9-4255-457b-aa4a-e5fc7e614819
+United Arab Emirates,TT4G35F,1,1,Agree,3,gpt-4o,a04c22d0-9fee-4178-82f9-28a1fe3c13f5
+United Arab Emirates,TT4G35G,1,1,Agree,3,gpt-4o,15e2d859-1426-44c4-9496-6ea978d6903f
+United Arab Emirates,TT4G35H,1,1,Agree,3,gpt-4o,19ab7e77-fae0-4270-98e3-4f55475557da
+United Arab Emirates,TT4G35I,1,1,Agree,3,gpt-4o,3faef632-bdda-44df-ac21-e74696f0643d
+United Arab Emirates,TT4G35J,1,1,Disagree,2,gpt-4o,3fce8370-defe-48e7-b38f-365954c501bf
+Australia,TT4G35A,1,1,Agree,3,gpt-4o,83cd29a3-7a40-4f28-89e5-55025569884d
+Australia,TT4G35B,1,1,Agree,3,gpt-4o,2948628f-f4fd-4fdc-8f14-ed6b3774beac
+Australia,TT4G35C,1,1,Agree,3,gpt-4o,f5e56b22-374d-41a7-87e6-ee8c926d3e46
+Australia,TT4G35D,1,1,Agree,3,gpt-4o,ff4e2936-dc82-4499-af87-5d2121d6a660
+Australia,TT4G35E,1,1,Agree,3,gpt-4o,31a57aa1-c4ab-4585-8a96-1c835807379e
+Australia,TT4G35F,1,1,Agree,3,gpt-4o,33d1373e-6ac0-4f7e-bea3-a6c3c79e78bc
+Australia,TT4G35G,1,1,Agree,3,gpt-4o,0552b068-3b71-43ce-aa39-fe57a75e446c
+Australia,TT4G35H,1,1,Agree,3,gpt-4o,27a521e6-40c0-406d-a571-e26f79d90aaf
+Australia,TT4G35I,1,1,Agree,3,gpt-4o,56c1a52d-f371-401b-9f3b-76211d977ca9
+Australia,TT4G35J,1,1,Disagree,2,gpt-4o,4c389408-89ed-4612-a1bc-43d1e2e8b437
+United Arab Emirates,TT4G35A,1,1,Agree,3,o3,7e471a90-1e0f-4e87-8728-96b977607527
+United Arab Emirates,TT4G35B,1,1,Agree,3,o3,4dc437b7-9e98-4e06-a730-d7a5946f9c32
+United Arab Emirates,TT4G35C,1,1,Agree,3,o3,7025adaa-307d-410a-912d-df4d5871a0e2
+United Arab Emirates,TT4G35D,1,1,Agree,3,o3,4a15e3f7-cff6-4c20-b9f6-f7e728e03c07
+United Arab Emirates,TT4G35E,1,1,Agree,3,o3,43b2830a-53a9-4b3c-8429-c506d3e2f7d8
+United Arab Emirates,TT4G35F,1,1,Strongly agree,4,o3,c3717fb6-71d4-4c7e-a7dd-db2e6a13077f
+United Arab Emirates,TT4G35G,1,1,Agree,3,o3,6f6d1f7c-a120-4eaa-afd7-0ea8d03b35bb
+United Arab Emirates,TT4G35H,1,1,Agree,3,o3,896217e4-ff19-4aa5-b9ac-3ca9aaf1b130
+United Arab Emirates,TT4G35I,1,1,Agree,3,o3,bb6fdd65-7b86-489f-979e-4635338258e4
+United Arab Emirates,TT4G35J,1,1,Disagree,2,o3,018803d2-1eb6-4589-bd84-a0d1cfd7b7de
+Australia,TT4G35A,1,1,Agree,3,o3,10ae216e-552e-437c-b847-55caa4fba5ba
+Australia,TT4G35B,1,1,Agree,3,o3,815241a0-39e2-4ea3-833e-953687fdc011
+Australia,TT4G35C,1,1,Agree,3,o3,fc382aa2-34c3-460e-861d-653fcedd49cb
+Australia,TT4G35D,1,1,Agree,3,o3,f660f1ca-6449-4620-9c9a-9e3494372e2e
+Australia,TT4G35E,1,1,Agree,3,o3,885be124-5811-452e-bc92-6c900be93deb
+Australia,TT4G35F,1,1,Agree,3,o3,1f024788-ae43-4e4a-acb7-44bd219f9dd3
+Australia,TT4G35G,1,1,Agree,3,o3,7585ea7b-2a38-4eab-a980-f2ca6e412d74
+Australia,TT4G35H,1,1,Agree,3,o3,9a8f58ef-fe67-49db-ac67-5805c6959486
+Australia,TT4G35I,1,1,Agree,3,o3,3137dfe5-9570-4361-a684-aa8865d31eca
+Australia,TT4G35J,1,1,Disagree,2,o3,81c50905-14dd-4eee-88fa-d36be2758034
+United Arab Emirates,TT4G35A,1,1,Agree,3,o4-mini,87ab6625-271a-4472-b74e-4f9c56750b37
+United Arab Emirates,TT4G35B,1,1,Agree,3,o4-mini,aa386299-f910-4d3c-a172-e80c87574c87
+United Arab Emirates,TT4G35C,1,1,Agree,3,o4-mini,c6a5ef86-368a-451d-b980-989765888d40
+United Arab Emirates,TT4G35D,1,1,Agree,3,o4-mini,71b51ac4-d427-4651-b4a3-bb8562fd2c62
+United Arab Emirates,TT4G35E,1,1,Agree,3,o4-mini,0f88a7d6-7e40-48c4-8cb6-afd074e652ec
+United Arab Emirates,TT4G35F,1,1,Strongly agree,4,o4-mini,0963d6fa-70ae-4bc4-9307-431a795a795c
+United Arab Emirates,TT4G35G,1,1,Strongly agree,4,o4-mini,95c17d76-83f6-475b-8973-062cb826bc99
+United Arab Emirates,TT4G35H,1,1,Agree,3,o4-mini,f7c80dc0-0954-4e8e-9ce8-2a7651797027
+United Arab Emirates,TT4G35I,1,1,Agree,3,o4-mini,f291b5cf-7ed6-4a07-a9e0-8ca4ff8eb462
+United Arab Emirates,TT4G35J,1,1,Disagree,2,o4-mini,deb93985-3354-4b6c-aed6-ea49beaf2e98
+Australia,TT4G35A,1,1,Agree,3,o4-mini,3e8aff93-20ac-4030-b267-5fe83e2ebdaa
+Australia,TT4G35B,1,1,Agree,3,o4-mini,620bb7a5-c12f-4041-a9ad-93fc1dfd4482
+Australia,TT4G35C,1,1,Agree,3,o4-mini,4fa141b0-e37f-4dcd-84da-245887616d0a
+Australia,TT4G35D,1,1,Agree,3,o4-mini,ffea830c-5986-49a4-ba82-e301e732fa5d
+Australia,TT4G35E,1,1,Agree,3,o4-mini,e31b70b5-2e66-46ba-aa06-84b60ea6fec2
+Australia,TT4G35F,1,1,Agree,3,o4-mini,eb8f3387-f96d-40fd-ab26-44aa745bc027
+Australia,TT4G35G,1,1,Agree,3,o4-mini,eac404ac-0ea2-412a-b60e-1b2177d2a1b6
+Australia,TT4G35H,1,1,Agree,3,o4-mini,7c3458c9-cbd4-4475-8277-c05678365a32
+Australia,TT4G35I,1,1,Agree,3,o4-mini,d67e3bbe-9fb1-4dbd-862d-a15a89758aad
+Australia,TT4G35J,1,1,Agree,3,o4-mini,ae80c425-47a4-49a3-89ff-aba30112c415
+United Arab Emirates,TT4G35A,1,1,Agree,3,gemini/gemini-2.0-flash,2ea9a422-d8a5-4906-b163-3788a085b68a
+United Arab Emirates,TT4G35B,1,1,Agree,3,gemini/gemini-2.0-flash,0317ffb3-9d64-428b-a973-dd44d7e0c367
+United Arab Emirates,TT4G35C,1,1,Agree,3,gemini/gemini-2.0-flash,11712062-7fe3-4b3f-a54f-32b1fa533d00
+United Arab Emirates,TT4G35D,1,1,Agree,3,gemini/gemini-2.0-flash,04244308-dd99-4688-9c69-3e25a5797e4b
+United Arab Emirates,TT4G35E,1,1,Agree,3,gemini/gemini-2.0-flash,44c37697-c9b1-4b46-a3f5-6cf0a5f50482
+United Arab Emirates,TT4G35F,1,1,Agree,3,gemini/gemini-2.0-flash,87569721-9140-487e-9e16-03f9c0be652f
+United Arab Emirates,TT4G35G,1,1,Agree,3,gemini/gemini-2.0-flash,ad8ffd1a-0e99-483a-93bd-10707f1e72ea
+United Arab Emirates,TT4G35H,1,1,Agree,3,gemini/gemini-2.0-flash,b65ba759-70b3-4f83-bc17-7af33b152dab
+United Arab Emirates,TT4G35I,1,1,Agree,3,gemini/gemini-2.0-flash,8e8e2286-6576-41fc-a17c-284f1fa41702
+United Arab Emirates,TT4G35J,1,1,Disagree,2,gemini/gemini-2.0-flash,3d032213-b1a5-43cd-a979-eab4350f0c9e
+Australia,TT4G35A,1,1,Agree,3,gemini/gemini-2.0-flash,d9856f22-2b4a-4ccf-b55f-35b58401fe87
+Australia,TT4G35B,1,1,Agree,3,gemini/gemini-2.0-flash,8c9b90bd-1107-4c6f-9835-472f78258014
+Australia,TT4G35C,1,1,Disagree,2,gemini/gemini-2.0-flash,0260ed7b-1d00-4c78-82a7-101d948489f4
+Australia,TT4G35D,1,1,Agree,3,gemini/gemini-2.0-flash,f001347e-3633-477b-b827-077da380ac6a
+Australia,TT4G35E,1,1,Agree,3,gemini/gemini-2.0-flash,6dc3bd17-42de-49fd-8219-b53649ff9778
+Australia,TT4G35F,1,1,Agree,3,gemini/gemini-2.0-flash,3bae8f73-8ab9-4471-a0f1-9baaa80d1ce9
+Australia,TT4G35G,1,1,Agree,3,gemini/gemini-2.0-flash,68d74ad9-ee0b-48b6-a152-85f5ef556863
+Australia,TT4G35H,1,1,Agree,3,gemini/gemini-2.0-flash,e14a54b5-dca2-409d-9c16-aaf48ce691a0
+Australia,TT4G35I,1,1,Agree,3,gemini/gemini-2.0-flash,05c59af8-4abc-4448-8a2f-2d93f039ebc1
+Australia,TT4G35J,1,1,Disagree,2,gemini/gemini-2.0-flash,55875cd0-85f8-4e51-ac30-3016091bad9b
+Belgium,TT4G35A,1,1,Agree,3,gpt-5,08caa7a8-4d4c-4981-9f5f-482cef0e8af5
+Belgium,TT4G35B,1,1,Agree,3,gpt-5,c63d4d61-01f8-49c1-b583-fb26a6e95f0a
+Belgium,TT4G35C,1,1,Agree,3,gpt-5,b5494414-bbfa-4a4c-bf70-ed05fe7542e3
+Belgium,TT4G35D,1,1,Agree,3,gpt-5,c1151a02-8764-4033-bd7d-2cdbfda9a43a
+Belgium,TT4G35E,1,1,Agree,3,gpt-5,6aeed056-2e8d-48ec-81d9-28433594cfdf
+Belgium,TT4G35F,1,1,Strongly agree,4,gpt-5,f04a9d3e-984d-45a5-a17c-c131ef2fad5e
+Belgium,TT4G35G,1,1,Strongly agree,4,gpt-5,5b0e9706-dcb5-4a59-9714-b890de7a2734
+Belgium,TT4G35H,1,1,Agree,3,gpt-5,5e4c1f86-bb3a-485b-82c9-b0d4cd61d876
+Belgium,TT4G35I,1,1,Agree,3,gpt-5,93343511-835d-42b9-9c2a-373dc2b5dfdf
+Belgium,TT4G35J,1,1,Disagree,2,gpt-5,57c93da9-6b4e-4859-b1e5-d2980d15e31b
+Flemish Comm. (Belgium),TT4G35A,1,1,Agree,3,gpt-5,796e37d8-dd75-46f0-8b36-b8c08c44fa2d
+Flemish Comm. (Belgium),TT4G35B,1,1,Agree,3,gpt-5,5a3e8b72-7a47-4330-91ce-7ef9dca288c8
+Flemish Comm. (Belgium),TT4G35C,1,1,Agree,3,gpt-5,f7c38ce0-e3d1-40ce-8676-460a01706ed0
+Flemish Comm. (Belgium),TT4G35D,1,1,Agree,3,gpt-5,eb2671cd-dbe2-415c-abb8-acd80234fc5a
+Flemish Comm. (Belgium),TT4G35E,1,1,Agree,3,gpt-5,4a91fdf5-dae3-4939-9a87-5f42af20dbbe
+Flemish Comm. (Belgium),TT4G35F,1,1,Strongly agree,4,gpt-5,9dfcc84d-8855-4c1c-b5ea-efd8438199db
+Flemish Comm. (Belgium),TT4G35G,1,1,Strongly agree,4,gpt-5,215d1660-e1e8-4e2b-a5e7-91d2309142fa
+Flemish Comm. (Belgium),TT4G35H,1,1,Agree,3,gpt-5,44abf215-36a4-4c3b-bddf-906478ab59cd
+Flemish Comm. (Belgium),TT4G35I,1,1,Agree,3,gpt-5,cff54652-5baf-4e22-9420-4e6ce0e1b9a4
+Flemish Comm. (Belgium),TT4G35J,1,1,Disagree,2,gpt-5,3b3361db-0728-4dd9-b1fe-49c59a631946
+French Comm. (Belgium),TT4G35A,1,1,Agree,3,gpt-5,73a12eed-19b3-4f8f-97f6-9d4de4dbf836
+French Comm. (Belgium),TT4G35B,1,1,Agree,3,gpt-5,3f7edaec-b1db-4ca5-afb4-75e749fff81e
+French Comm. (Belgium),TT4G35C,1,1,Agree,3,gpt-5,43901599-7278-4b51-be85-1a7a18ccd862
+French Comm. (Belgium),TT4G35D,1,1,Agree,3,gpt-5,cbe78a1f-d968-46c3-bb8b-3e3622325192
+French Comm. (Belgium),TT4G35E,1,1,Agree,3,gpt-5,87f78414-1acf-4db6-8b2c-8c2db958aa10
+French Comm. (Belgium),TT4G35F,1,1,Strongly agree,4,gpt-5,075f4481-c3b9-4e3f-9d3e-2f72e5838d09
+French Comm. (Belgium),TT4G35G,1,1,Strongly agree,4,gpt-5,34efe8f8-ba22-4c88-809a-e32e8081dd74
+French Comm. (Belgium),TT4G35H,1,1,Agree,3,gpt-5,3e59d0d0-49f6-4782-8166-371835c9404c
+French Comm. (Belgium),TT4G35I,1,1,Agree,3,gpt-5,6cdce305-fd97-4a0d-b555-fa6f17dea096
+French Comm. (Belgium),TT4G35J,1,1,Disagree,2,gpt-5,4af273b3-10fc-43b0-96d7-bb007227e54c
+Brazil,TT4G35A,1,1,Agree,3,gpt-5,ab4cceaf-9c88-4c2f-a1d3-320ef531de15
+Brazil,TT4G35B,1,1,Agree,3,gpt-5,ef57e976-f298-419d-a5ed-28e9589e3665
+Brazil,TT4G35C,1,1,Agree,3,gpt-5,4cef1b1e-b5ac-4a32-ab3a-b03e4608ce46
+Brazil,TT4G35D,1,1,Agree,3,gpt-5,ba47ff60-53aa-4f58-9572-ffe15226d92e
+Brazil,TT4G35E,1,1,Agree,3,gpt-5,33c105f4-2bb0-4092-a057-9d778c5bdbd4

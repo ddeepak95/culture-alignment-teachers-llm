@@ -1,0 +1,51 @@
+country,question_id,run_number,attempt,response_from_llm,response_score,model,llm_response_id
+United Arab Emirates,TT4G35A,1,1,Agree,3,gpt-4o,944dacb1-64a9-4802-9f20-4c4f18a64f61
+United Arab Emirates,TT4G35B,1,1,Strongly agree,4,gpt-4o,2f012c1d-84b9-4d65-95c2-2b9d57f291f3
+United Arab Emirates,TT4G35C,1,1,Agree,3,gpt-4o,321ef5d2-b00c-4472-90f5-b0d66941460e
+United Arab Emirates,TT4G35D,1,1,Agree,3,gpt-4o,14f4faaa-b231-4817-beb5-fbacec7a49b6
+United Arab Emirates,TT4G35E,1,1,Agree,3,gpt-4o,5bcd27c4-ce45-4b04-a16d-873a6770e2ac
+United Arab Emirates,TT4G35F,1,1,Agree,3,gpt-4o,0c41c1f6-040f-436c-b428-e1fcde9d46f8
+United Arab Emirates,TT4G35G,1,1,Agree,3,gpt-4o,a363c162-5913-4709-8eb2-bc03df0bee1a
+United Arab Emirates,TT4G35H,1,1,Agree,3,gpt-4o,3cd05e44-6a0e-43fe-b057-7a222e885f7f
+United Arab Emirates,TT4G35I,1,1,Agree,3,gpt-4o,2e91850a-c1b6-4e1b-80be-cf8da21ffd8f
+United Arab Emirates,TT4G35J,1,1,Disagree,2,gpt-4o,6a79e12c-c1d9-491f-8f17-3188920ce998
+Australia,TT4G35A,1,1,Agree,3,gpt-4o,b1a819b7-e5b6-4e04-aeaa-c436302c8249
+Australia,TT4G35B,1,1,Agree,3,gpt-4o,17a97668-620a-4b58-beb9-9e89e094bb71
+Australia,TT4G35C,1,1,Agree,3,gpt-4o,a6bdc874-cd0e-4504-a720-753ab8f43c32
+Australia,TT4G35D,1,1,Agree,3,gpt-4o,810ad0ee-fbfd-4610-8eeb-6cc2a0d8846c
+Australia,TT4G35E,1,1,Agree,3,gpt-4o,cb184edc-c017-4a95-84bd-166460d2dd6a
+Australia,TT4G35F,1,1,Agree,3,gpt-4o,84f4109c-c080-4c84-b551-9a0b83d47f61
+Australia,TT4G35G,1,1,Agree,3,gpt-4o,eb0d9e7a-2d4f-4fc2-869a-6bacf0ca52dc
+Australia,TT4G35H,1,1,Agree,3,gpt-4o,a138db35-d6a7-44af-86d0-27f5c355c0d0
+Australia,TT4G35I,1,1,Agree,3,gpt-4o,998e5a6d-ff5d-4839-9a2b-56d76650e16c
+Australia,TT4G35J,1,1,Disagree,2,gpt-4o,597891b9-7055-4b8f-813e-cbcec8815fd2
+Belgium,TT4G35A,1,1,Agree,3,gpt-4o,6dee5ae9-14f1-4bfe-829c-1cf4298706fd
+Belgium,TT4G35B,1,1,Agree,3,gpt-4o,5834503e-7b8f-4034-8272-01067c3d953f
+Belgium,TT4G35C,1,1,Agree,3,gpt-4o,da568555-9df9-4932-8e0c-af49b9b20c97
+Belgium,TT4G35D,1,1,Agree,3,gpt-4o,aa33fa9d-2da9-4dd3-90be-33794ff8a0d3
+Belgium,TT4G35E,1,1,Agree,3,gpt-4o,08149ed3-9698-4a6c-b5cd-fd27c492e756
+Belgium,TT4G35F,1,1,Agree,3,gpt-4o,691207fe-af73-4c26-b0b4-18cc632b417a
+Belgium,TT4G35G,1,1,Agree,3,gpt-4o,56e98c38-27f0-4e62-86fa-6638eb3679f8
+Belgium,TT4G35H,1,1,Agree,3,gpt-4o,1178ec71-348c-4d62-b5ae-c8f8926a7c2d
+Belgium,TT4G35I,1,1,Agree,3,gpt-4o,b46affcf-9e03-434c-bb4c-8315deca0d02
+Belgium,TT4G35J,1,1,Agree,3,gpt-4o,8fb72be7-3e8b-4bc3-a4da-25877b25e571
+Flemish Comm. (Belgium),TT4G35A,1,1,Agree,3,gpt-4o,a4ededfe-e7e3-407c-b41b-8aa3113b3d40
+Flemish Comm. (Belgium),TT4G35B,1,1,Agree,3,gpt-4o,cb870291-727f-4306-8016-f6ae44a6996f
+Flemish Comm. (Belgium),TT4G35C,1,1,Agree,3,gpt-4o,19fc6a85-d347-4403-8612-72d0593b8cd2
+Flemish Comm. (Belgium),TT4G35D,1,1,Agree,3,gpt-4o,baaa48ec-aee6-40e2-816e-64e31096215f
+Flemish Comm. (Belgium),TT4G35E,1,1,Agree,3,gpt-4o,1bca9ed6-8402-4ece-81cf-0fc6b5a1ee49
+Flemish Comm. (Belgium),TT4G35F,1,1,Agree,3,gpt-4o,57a1edc8-8d36-42a1-a4e2-123938a2d96f
+Flemish Comm. (Belgium),TT4G35G,1,1,Agree,3,gpt-4o,0da08de0-ed2f-40fa-aeb1-f6ca4d1fae44
+Flemish Comm. (Belgium),TT4G35H,1,1,Agree,3,gpt-4o,14867d32-3bd3-4a14-8c98-78c5dbc17913
+Flemish Comm. (Belgium),TT4G35I,1,1,Agree,3,gpt-4o,fc5bc85c-664e-4116-906d-547dcb9c2760
+Flemish Comm. (Belgium),TT4G35J,1,1,Disagree,2,gpt-4o,599a59df-2219-4443-b948-51168952163f
+French Comm. (Belgium),TT4G35A,1,1,Agree,3,gpt-4o,b244a1ec-6f6e-49ed-ba28-0569b6ebe226
+French Comm. (Belgium),TT4G35B,1,1,Agree,3,gpt-4o,4cd2bbc2-1ed6-47b7-bb69-cfca7364e00b
+French Comm. (Belgium),TT4G35C,1,1,Agree,3,gpt-4o,58072888-5bd9-4557-8156-3cd560192b72
+French Comm. (Belgium),TT4G35D,1,1,Agree,3,gpt-4o,4a0e7bd2-c494-47ee-a2dd-542c36fc92d6
+French Comm. (Belgium),TT4G35E,1,1,Agree,3,gpt-4o,d3785a7f-17ab-43c7-879d-884c0c643d02
+French Comm. (Belgium),TT4G35F,1,1,Agree,3,gpt-4o,ceee5457-714e-4ae7-841d-4958c976c1fd
+French Comm. (Belgium),TT4G35G,1,1,Agree,3,gpt-4o,b10b459a-59c7-4e51-b124-b72ab27f6b68
+French Comm. (Belgium),TT4G35H,1,1,Agree,3,gpt-4o,145116d8-f013-4f93-9cfb-1e2b18dfad4d
+French Comm. (Belgium),TT4G35I,1,1,Agree,3,gpt-4o,e33b47cb-586e-4e01-b089-9dd2f821af52
+French Comm. (Belgium),TT4G35J,1,1,Disagree,2,gpt-4o,e3b2c35c-1ab7-4e66-bcff-538023b91e0d

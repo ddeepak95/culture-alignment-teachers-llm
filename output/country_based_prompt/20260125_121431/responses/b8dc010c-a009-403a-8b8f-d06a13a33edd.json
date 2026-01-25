@@ -1,0 +1,40 @@
+{
+  "id": "A152acT9LMCu_uMP153SsQ0",
+  "created": 1769364994,
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"input_statement\": \"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\n  \"response\": \"Disagree\"\n}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "images": [],
+        "thinking_blocks": []
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 32,
+    "prompt_tokens": 155,
+    "total_tokens": 187,
+    "completion_tokens_details": {
+      "text_tokens": 32
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 155,
+      "image_tokens": null
+    },
+    "cache_read_input_tokens": null
+  },
+  "vertex_ai_grounding_metadata": [],
+  "vertex_ai_url_context_metadata": [],
+  "vertex_ai_safety_results": [],
+  "vertex_ai_citation_metadata": []
+}

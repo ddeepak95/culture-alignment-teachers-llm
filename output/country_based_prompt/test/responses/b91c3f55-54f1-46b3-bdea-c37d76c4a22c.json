@@ -1,0 +1,40 @@
+{
+  "id": "jUd2aeZ61f-OsQ-M5PWYAw",
+  "created": 1769359244,
+  "model": "gemini-2.0-flash",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"input_statement\": \"Artificial intelligence helps teachers automate administrative tasks.\",\n  \"response\": \"Agree\"\n}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "images": [],
+        "thinking_blocks": []
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 27,
+    "prompt_tokens": 150,
+    "total_tokens": 177,
+    "completion_tokens_details": {
+      "text_tokens": 27
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 150,
+      "image_tokens": null
+    },
+    "cache_read_input_tokens": null
+  },
+  "vertex_ai_grounding_metadata": [],
+  "vertex_ai_url_context_metadata": [],
+  "vertex_ai_safety_results": [],
+  "vertex_ai_citation_metadata": []
+}

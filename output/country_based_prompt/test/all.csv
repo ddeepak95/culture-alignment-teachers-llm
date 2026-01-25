@@ -1,0 +1,51 @@
+country,question_id,run_number,attempt,response_from_llm,response_score,model,llm_response_id
+United Arab Emirates,TT4G35A,1,1,Agree,3,gemini/gemini-2.0-flash,dcb6147b-05d5-48df-b121-7f8dfb403bb6
+United Arab Emirates,TT4G35B,1,1,Agree,3,gemini/gemini-2.0-flash,b53499b3-aacf-45c7-85f8-583b7377643e
+United Arab Emirates,TT4G35C,1,1,Agree,3,gemini/gemini-2.0-flash,69a6c2d6-7743-44c2-9a4f-d559419e302a
+United Arab Emirates,TT4G35D,1,1,Agree,3,gemini/gemini-2.0-flash,52046b2f-40c5-4901-a3de-9b972c8a3f42
+United Arab Emirates,TT4G35E,1,1,Agree,3,gemini/gemini-2.0-flash,55b8c609-de68-4162-b544-787c74142b9a
+United Arab Emirates,TT4G35F,1,1,Agree,3,gemini/gemini-2.0-flash,37bed5a2-bf90-4f34-8871-561fda2cd424
+United Arab Emirates,TT4G35G,1,1,Agree,3,gemini/gemini-2.0-flash,c1631132-4233-4636-a99a-e2e6a335d5f6
+United Arab Emirates,TT4G35H,1,1,Agree,3,gemini/gemini-2.0-flash,45f9c6d4-e20e-4e4d-a431-d0caaffce173
+United Arab Emirates,TT4G35I,1,1,Agree,3,gemini/gemini-2.0-flash,eab80ac3-6a26-4944-b514-e549a3532823
+United Arab Emirates,TT4G35J,1,1,Disagree,2,gemini/gemini-2.0-flash,01626af2-9094-4190-b1c4-91bc179f08a7
+Australia,TT4G35A,1,1,Agree,3,gemini/gemini-2.0-flash,f22119bf-1b8b-4de9-8dcf-cd248795fb11
+Australia,TT4G35B,1,1,Agree,3,gemini/gemini-2.0-flash,b7c699e0-e883-423b-93c0-0ef3593bfa08
+Australia,TT4G35C,1,1,Agree,3,gemini/gemini-2.0-flash,4b754bd3-f918-40d0-8326-096eb54834eb
+Australia,TT4G35D,1,1,Agree,3,gemini/gemini-2.0-flash,e9f34afb-637a-484f-9da0-b5a69e79cd51
+Australia,TT4G35E,1,1,Agree,3,gemini/gemini-2.0-flash,3f98bc80-522a-40f1-8473-b4d8bf459876
+Australia,TT4G35F,1,1,Agree,3,gemini/gemini-2.0-flash,437ac540-7504-4db9-b432-51c77f483b5c
+Australia,TT4G35G,1,1,Agree,3,gemini/gemini-2.0-flash,57808c43-1612-48fc-bc5e-7b398d8357bc
+Australia,TT4G35H,1,1,Agree,3,gemini/gemini-2.0-flash,b898e990-9129-4fa4-acd5-56f39581fed0
+Australia,TT4G35I,1,1,Agree,3,gemini/gemini-2.0-flash,8829f3f4-5324-4343-b0fa-95496f425c03
+Australia,TT4G35J,1,1,Disagree,2,gemini/gemini-2.0-flash,462bde5e-cdf1-4901-b24a-e08377aacf1f
+Belgium,TT4G35A,1,1,Disagree,2,gemini/gemini-2.0-flash,6ceacc4c-6cfd-41d1-b336-56706b9d91a4
+Belgium,TT4G35B,1,1,Agree,3,gemini/gemini-2.0-flash,da088212-55a4-4394-b4c0-2c8102c5ca14
+Belgium,TT4G35C,1,1,Agree,3,gemini/gemini-2.0-flash,c48c750e-5f8d-4fec-8632-6e49da30177d
+Belgium,TT4G35D,1,1,I don't know,5,gemini/gemini-2.0-flash,a02c0358-5bdc-4dbb-965b-4a4ea014f01d
+Belgium,TT4G35E,1,1,Agree,3,gemini/gemini-2.0-flash,b91c3f55-54f1-46b3-bdea-c37d76c4a22c
+Belgium,TT4G35F,1,1,Agree,3,gemini/gemini-2.0-flash,143204cf-12c5-456a-8a55-76b7f6af086d
+Belgium,TT4G35G,1,1,Agree,3,gemini/gemini-2.0-flash,934e1321-9958-43a5-b337-1cd7577ba51b
+Belgium,TT4G35H,1,1,Agree,3,gemini/gemini-2.0-flash,f7358e5e-4ca4-4fb9-8738-b1474a115563
+Belgium,TT4G35I,1,1,Agree,3,gemini/gemini-2.0-flash,2d26d1c4-ca33-4106-a638-cc9e06bb9ae8
+Belgium,TT4G35J,1,1,Disagree,2,gemini/gemini-2.0-flash,8930d68f-23be-49b6-b057-36b473da1d17
+Flemish Comm. (Belgium),TT4G35A,1,1,I don't know,5,gemini/gemini-2.0-flash,4259c487-3710-4a5c-9cf7-b4801bc68095
+Flemish Comm. (Belgium),TT4G35B,1,1,Agree,3,gemini/gemini-2.0-flash,4f5c9946-1afa-4752-b33e-fad6c1ba2dcb
+Flemish Comm. (Belgium),TT4G35C,1,1,I don't know,5,gemini/gemini-2.0-flash,8bdfafd3-a361-4b17-b01d-240adaaf0148
+Flemish Comm. (Belgium),TT4G35D,1,1,I don't know,5,gemini/gemini-2.0-flash,869f1701-3472-40c8-8e02-80404af49e60
+Flemish Comm. (Belgium),TT4G35E,1,1,Agree,3,gemini/gemini-2.0-flash,c31dcc31-1109-42e5-b36b-e25e54680cdd
+Flemish Comm. (Belgium),TT4G35F,1,1,Agree,3,gemini/gemini-2.0-flash,a623d9dc-4214-4b62-9965-32be3cab7cb2
+Flemish Comm. (Belgium),TT4G35G,1,1,Agree,3,gemini/gemini-2.0-flash,9e8fcb6a-52fb-4e79-8ed4-15cbb5c70ed5
+Flemish Comm. (Belgium),TT4G35H,1,1,Agree,3,gemini/gemini-2.0-flash,54d7ebc7-bf00-4e2a-9daf-999d28deb4f9
+Flemish Comm. (Belgium),TT4G35I,1,1,Agree,3,gemini/gemini-2.0-flash,88441a0e-f1d0-4630-a826-cd54c5e79bcd
+Flemish Comm. (Belgium),TT4G35J,1,1,Disagree,2,gemini/gemini-2.0-flash,bcb4e7cc-2c67-44de-967e-60867266f117
+French Comm. (Belgium),TT4G35A,1,1,Disagree,2,gemini/gemini-2.0-flash,bbb541ac-0bfb-4a26-a29b-5f265a793d4e
+French Comm. (Belgium),TT4G35B,1,1,Agree,3,gemini/gemini-2.0-flash,70816d5e-7e78-430d-89e7-41d3868cbcbc
+French Comm. (Belgium),TT4G35C,1,1,Agree,3,gemini/gemini-2.0-flash,9c20a291-6caa-4f44-ae8d-abb2cc9577ca
+French Comm. (Belgium),TT4G35D,1,1,I don't know,5,gemini/gemini-2.0-flash,91aa40f4-aeb9-4f24-a035-18785944bd64
+French Comm. (Belgium),TT4G35E,1,1,I don't know,5,gemini/gemini-2.0-flash,f590d66c-49c7-4a15-9200-67c01ef19cfb
+French Comm. (Belgium),TT4G35F,1,1,Agree,3,gemini/gemini-2.0-flash,e18619c4-f71c-4057-9f87-f2fc53e4bc4a
+French Comm. (Belgium),TT4G35G,1,1,Agree,3,gemini/gemini-2.0-flash,1ed44b4d-8137-42c2-bf8b-bf50731d4baf
+French Comm. (Belgium),TT4G35H,1,1,Agree,3,gemini/gemini-2.0-flash,a9c896da-0065-4ffb-b590-4382fa38f558
+French Comm. (Belgium),TT4G35I,1,1,Agree,3,gemini/gemini-2.0-flash,b8fa65b0-62f2-4b0d-ac7b-b521d73a79cc
+French Comm. (Belgium),TT4G35J,1,1,Disagree,2,gemini/gemini-2.0-flash,c34ce1dc-210d-4ba9-8caa-19977c298065
