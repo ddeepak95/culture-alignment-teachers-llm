@@ -1,0 +1,35 @@
+{
+  "id": "chatcmpl-60830944-99f8-4a17-973a-cf72a7ff5a96",
+  "created": 1769819094,
+  "model": "gpt-5.2",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 500,
+    "total_tokens": 650,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "HUp9afnCMb-zl7oPufeVqAE",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Assessing Final Output**\n\n\\n\\n\n\nI've finalized the JSON payload. I've double-checked that it validates according to the schema and includes the correct responses for each survey question, without any extra text or formatting issues. All the constraints are satisfied.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Assessing Final Output**\n\n\\n\\n\n\nI've finalized the JSON payload. I've double-checked that it validates according to the schema and includes the correct responses for each survey question, without any extra text or formatting issues. All the constraints are satisfied.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769818653,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1109,
+    "prompt_tokens": 476,
+    "total_tokens": 1585,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 951,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 158
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 476
+    }
+  }
+}

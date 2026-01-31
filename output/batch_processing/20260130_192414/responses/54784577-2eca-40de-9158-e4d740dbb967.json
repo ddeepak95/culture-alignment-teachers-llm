@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-29c77150-62f2-4598-b88d-cd88b8c2bf5a",
+  "created": 1769819094,
+  "model": "gpt-5.2",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "reasoning_content": "**Evaluating AI in education**\n\nI need to respond to each statement with one option regarding the role of AI in education. As an Australian teacher, I see both the positives and negatives. I likely agree that AI assists with lesson plans, differentiation, individual support, and admin tasks. However, I’m also concerned about enabling cheating and privacy risks. I think I might strongly agree on admin, cheating, and privacy, while agreeing on lesson plans and individual support. I'll ensure to format my response in the required JSON format."
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 259,
+    "prompt_tokens": 500,
+    "total_tokens": 759,
+    "completion_tokens_details": {
+      "reasoning_tokens": 107,
+      "text_tokens": null,
+      "image_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null
+    }
+  }
+}

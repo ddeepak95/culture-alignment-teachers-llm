@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-56f57289-9ec7-4be2-843c-e72bda38ec74",
+  "created": 1769818605,
+  "model": "gpt-5.2",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "reasoning_content": "**Choosing agreement options**\n\nI need to select the right agreement options for the response from the UAE teacher. It’s important for me to agree with the positive aspects while also acknowledging the associated risks. I’ll make sure to provide this in the proper JSON format. It's crucial to balance both sides in the response so it feels well-rounded. I'll make sure I get this right!"
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 504,
+    "total_tokens": 684,
+    "completion_tokens_details": {
+      "reasoning_tokens": 28,
+      "text_tokens": null,
+      "image_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null
+    }
+  }
+}

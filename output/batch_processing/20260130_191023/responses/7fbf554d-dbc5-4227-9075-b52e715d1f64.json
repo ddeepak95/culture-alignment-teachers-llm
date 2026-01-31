@@ -1,0 +1,53 @@
+{
+  "id": "v0h9afGHFYio4PoPko_JyQ0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Disagree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Finalizing Survey Responses**\n\nI've successfully finalized all the survey responses and am satisfied with the choices. The JSON object is constructed, and every requirement has been met: the format, role-playing consistency, and lack of additional text. The output is now ready for submission.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Finalizing Survey Responses**\n\nI've successfully finalized all the survey responses and am satisfied with the choices. The JSON object is constructed, and every requirement has been met: the format, role-playing consistency, and lack of additional text. The output is now ready for submission.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769818303,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1043,
+    "prompt_tokens": 478,
+    "total_tokens": 1521,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 879,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 164
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 478
+    }
+  }
+}

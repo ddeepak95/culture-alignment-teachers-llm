@@ -1,0 +1,38 @@
+country,model,reasoning,run_number,attempt,TT4G35A,TT4G35B,TT4G35C,TT4G35D,TT4G35E,TT4G35F,TT4G35G,TT4G35H,TT4G35I,TT4G35J,llm_response_id
+United Arab Emirates,google.gemini-3-flash-preview,high,1,1,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,53300065-e872-4241-a2e2-315dae77b995
+United Arab Emirates,google.gemini-3-flash-preview,high,2,1,Strongly agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,Disagree,7fc0aa8f-7614-4202-a029-7deac1aaae03
+United Arab Emirates,google.gemini-3-flash-preview,high,3,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,2193455a-f334-4567-843a-f5b7c49a2c91
+United Arab Emirates,google.gemini-3-flash-preview,high,4,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,772b1bf1-dd19-47f3-aab5-54eae3f3bc4e
+United Arab Emirates,google.gemini-3-flash-preview,high,5,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,313877bb-96cd-41d9-8e4e-32d2c1789cb2
+United Arab Emirates,google.gemini-3-flash-preview,high,6,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,cd244767-ae9b-4596-b73b-25e142bb4f67
+United Arab Emirates,google.gemini-3-flash-preview,high,7,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,935df027-e1fa-4345-a383-ffa35734d7e5
+United Arab Emirates,google.gemini-3-flash-preview,high,8,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,a6d3b613-d9f5-4bcc-bdf8-6b988b40e153
+United Arab Emirates,google.gemini-3-flash-preview,high,9,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,7fbf554d-dbc5-4227-9075-b52e715d1f64
+United Arab Emirates,google.gemini-3-flash-preview,high,10,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,953b9e60-9fae-4202-adea-bc73bb7a4c53
+United Arab Emirates,google.gemini-3-flash-preview,none,1,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,1eda4d2d-7c0d-45e7-88e2-48c6d8d145f7
+United Arab Emirates,google.gemini-3-flash-preview,none,2,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,34289a3c-ab98-4de0-bb0e-e12dde2e4c85
+United Arab Emirates,google.gemini-3-flash-preview,none,3,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,b34b4f0e-2ef4-4133-8e6e-50689aef887a
+United Arab Emirates,google.gemini-3-flash-preview,none,4,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,Disagree,4587a0c4-e2a2-4e04-832f-cb276d4a2175
+United Arab Emirates,google.gemini-3-flash-preview,none,5,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,9aa2c094-d2b2-4477-a9a2-b03e822e712c
+United Arab Emirates,google.gemini-3-flash-preview,none,6,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,7f6aaaa5-0b04-480c-8f61-20e9df55029e
+United Arab Emirates,google.gemini-3-flash-preview,none,7,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,49118ffa-3294-48c3-9b1a-8f70ab934d49
+United Arab Emirates,google.gemini-3-flash-preview,none,8,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,Disagree,aeac6cd5-1b77-4b84-b4eb-bc13e3fdc76c
+United Arab Emirates,google.gemini-3-flash-preview,none,9,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,d5d2f1e7-49e1-4de7-a102-67c5963647ef
+United Arab Emirates,google.gemini-3-flash-preview,none,10,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,b02efa61-95a7-4261-a72f-a1d8996468e3
+United Arab Emirates,anthropic.claude-4.5-haiku,high,1,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,88e018e2-bc2e-473a-a758-38c403057c1a
+United Arab Emirates,anthropic.claude-4.5-haiku,high,2,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,4020f9cb-d06e-494f-8c9c-ea4f586066e6
+United Arab Emirates,anthropic.claude-4.5-haiku,high,3,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,705ec534-5d11-4092-ad15-bbbd8d578fae
+United Arab Emirates,anthropic.claude-4.5-haiku,high,4,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,dee8f596-1d90-400b-8c20-d994071da358
+United Arab Emirates,anthropic.claude-4.5-haiku,high,5,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,c2723b50-1d7e-4df9-be1f-608722542f62
+United Arab Emirates,anthropic.claude-4.5-haiku,high,6,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,b573860b-2560-4d96-b822-1440e5eab039
+United Arab Emirates,anthropic.claude-4.5-haiku,high,7,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,87ff17ff-7be4-478a-bef3-9768caa8a2ed
+United Arab Emirates,anthropic.claude-4.5-haiku,high,8,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,8a189a61-8569-49aa-b046-bef93d2ce5cd
+United Arab Emirates,anthropic.claude-4.5-haiku,high,9,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,7068db22-d2ae-4743-b8ac-b55a674b1749
+United Arab Emirates,anthropic.claude-4.5-haiku,high,10,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,c745ac5f-fc52-4904-a359-fdaf0fb0898f
+United Arab Emirates,anthropic.claude-4.5-haiku,low,1,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,8e527a55-1acc-4325-bc7e-d8fdb24ba072
+United Arab Emirates,anthropic.claude-4.5-haiku,low,2,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,fbbfd1cf-b79e-481e-bde0-5785cc789faf
+United Arab Emirates,anthropic.claude-4.5-haiku,low,3,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,cb67e1ef-88dd-40a3-92be-cc5894cc01e8
+United Arab Emirates,anthropic.claude-4.5-haiku,low,4,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,178f9248-20b6-4249-9da0-bba8e4eaa376
+United Arab Emirates,anthropic.claude-4.5-haiku,low,5,1,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,Agree,cd5b931c-6ebf-468b-82d5-819da16a8134
+United Arab Emirates,anthropic.claude-4.5-haiku,low,6,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,8c7fc2eb-f2a3-4572-936f-9e80f747b7ab
+United Arab Emirates,anthropic.claude-4.5-haiku,low,7,1,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,75c3c9e5-8bff-4184-94f1-2691865b78eb

@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-b5de79c7-3c62-4e72-90b7-0e6f592190c6",
+  "created": 1769818642,
+  "model": "gpt-5.2",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "reasoning_content": "**Considering response format**\n\nI need to respond with just one option for each statement in a JSON format. The context involves a teacher in Australia, so I'll choose answers that seem reasonable. For instance, strong agreement that AI helps with planning and administration, agreeing that it adapts materials, and agreeing that it supports individual needs. I should indicate strong agreement on misrepresentation of work and amplifying biases too. Privacy and security seem to stay in agreement as well. I'll make that into an array."
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 502,
+    "total_tokens": 734,
+    "completion_tokens_details": {
+      "reasoning_tokens": 78,
+      "text_tokens": null,
+      "image_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null
+    }
+  }
+}

@@ -1,0 +1,161 @@
+country,model,reasoning,run_number,attempt,TT4G35A,TT4G35B,TT4G35C,TT4G35D,TT4G35E,TT4G35F,TT4G35G,TT4G35H,TT4G35I,TT4G35J,llm_response_id
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,8,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,43b2f9f8-1b62-4dfb-86a8-3be0245a1eeb
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,10,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,548ac869-11e7-48cc-affc-04b63ca535e1
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,5,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,f63b4377-aed7-4ee4-b48b-164eb0053663
+United Arab Emirates,google.gemini-3-flash-preview,none,10,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,b33e9d09-34df-4311-9c66-40c0ed5393db
+United Arab Emirates,openai.gpt-5.2,none,5,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,9f61b2cc-5ee4-4607-976b-4c9b4b1313c2
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,6,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,5e1678d6-29b1-4bd8-a5f0-1b9730930d2b
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,3,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,8fec91d6-0fa8-4911-ba2f-dd8a6727a77c
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,9,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,505365f7-aa3c-4041-adc5-47026716857f
+United Arab Emirates,openai.gpt-5.2,high,6,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,1e4158aa-caba-4730-b233-2b0509c5af5b
+United Arab Emirates,google.gemini-3-flash-preview,none,4,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,b9ee87fd-14c0-4871-b9f8-92cd36b20b5b
+United Arab Emirates,openai.gpt-5.2,high,8,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Disagree,da3c284d-4f8f-4df2-8b15-0e3f67636bd5
+United Arab Emirates,google.gemini-3-flash-preview,none,9,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,5a68d98c-ffc2-4dac-b5d4-def8e563674c
+United Arab Emirates,google.gemini-3-flash-preview,none,6,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,63900b3c-9f88-4a3f-bab1-b2f245cf6553
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,7,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Disagree,Disagree,df144b18-3c14-49db-b21c-fbf357911c16
+United Arab Emirates,google.gemini-3-flash-preview,none,7,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,358eb0ef-a993-4021-aed2-d1a7c3eec921
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,2,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,c0c8f018-1b44-4e55-8a88-8e3b715c41ad
+United Arab Emirates,openai.gpt-5.2,none,8,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,893757f6-6994-415c-addd-e300595502f4
+United Arab Emirates,google.gemini-3-flash-preview,none,2,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,4999f272-10fc-42fd-9863-b39d9fd3785a
+United Arab Emirates,openai.gpt-5.2,none,1,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,e6d52807-f38d-43c5-b814-c78f8a7b1559
+United Arab Emirates,google.gemini-3-flash-preview,none,5,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,ae30b17d-7811-42f4-a280-6d8366cddc96
+United Arab Emirates,google.gemini-3-flash-preview,none,8,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,4f015e3b-b61e-4e49-bd5b-5d0382e7200b
+United Arab Emirates,openai.gpt-5.2,high,1,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,b444d9d1-cc4b-4c0b-853b-e4c142cd47b0
+United Arab Emirates,openai.gpt-5.2,high,2,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,6eef30f8-8448-482a-8ec6-66348c107568
+United Arab Emirates,openai.gpt-5.2,high,5,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,45f272ae-5522-47a3-840d-673bc0eb6c9a
+United Arab Emirates,google.gemini-3-flash-preview,none,3,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,46d8075a-888a-4a09-b130-5f2b5079d6d0
+United Arab Emirates,openai.gpt-5.2,high,4,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,26e3d609-7a0d-415c-950e-d15eff7a3b66
+United Arab Emirates,openai.gpt-5.2,none,3,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,d3dd2355-15c9-43a0-b635-fca20414a6d1
+United Arab Emirates,openai.gpt-5.2,none,2,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,f7abbffe-8d2c-4a32-a1f6-1dd531024d4d
+United Arab Emirates,openai.gpt-5.2,none,7,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,20031746-36cd-4d51-b6a2-3abfa9ac8b8e
+United Arab Emirates,openai.gpt-5.2,high,3,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,a403d2ec-e292-4a28-b1ae-345362b7be8a
+United Arab Emirates,openai.gpt-5.2,high,7,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,ec2c05da-2f43-47ba-b402-d12f77a02cc7
+United Arab Emirates,openai.gpt-5.2,none,4,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,5aa5f3f4-ab44-4d6c-9b6d-29e7d70b4f54
+United Arab Emirates,openai.gpt-5.2,high,10,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,82b84a77-006f-4fb0-b478-d5f533fc8f52
+United Arab Emirates,openai.gpt-5.2,none,9,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,4e60340d-ef9a-454f-97e9-bd22ccf1ed6e
+United Arab Emirates,openai.gpt-5.2,high,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,333d7424-8a8f-4c5a-8b29-e402b55b0749
+United Arab Emirates,google.gemini-3-flash-preview,none,1,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,2bae6a80-fdee-4f34-819d-315d059a2a9a
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,4,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,18736e15-1828-466b-a7eb-915e70fb38e4
+United Arab Emirates,xai.grok-4-fast-non-reasoning,none,1,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,41ab5166-a2a4-4ad9-954c-715b173b33c1
+United Arab Emirates,openai.gpt-5.2,none,6,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,c539e056-4502-4d4a-bbe0-999abddbf2b8
+United Arab Emirates,openai.gpt-5.2,none,10,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,53039d20-9775-4f8b-8d83-77d6cf59e0d0
+United Arab Emirates,xai.grok-4-fast-reasoning,high,8,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,97816acc-ea0f-4311-9eb6-e56f6a39eda4
+United Arab Emirates,xai.grok-4-fast-reasoning,high,2,1,Agree,Strongly agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Disagree,b1d6b8e8-4d44-47de-a5ab-e4166f36a13e
+United Arab Emirates,xai.grok-4-fast-reasoning,high,4,1,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Disagree,1d8a9d3f-0a6b-43c2-a9f2-573091c34e25
+United Arab Emirates,xai.grok-4-fast-reasoning,high,6,1,Agree,Strongly agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Disagree,4c1585dc-e30f-4a36-a336-50d628d9e2ea
+United Arab Emirates,xai.grok-4-fast-reasoning,high,10,1,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Disagree,2e24e6b7-524d-41ce-8e6f-68b11ade358a
+United Arab Emirates,google.gemini-3-flash-preview,high,7,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,c281dab2-1cc0-47ec-8490-799f7190d112
+United Arab Emirates,anthropic.claude-4.5-haiku,low,5,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,c7295344-48bb-45f6-80e8-4e6fccd778a2
+United Arab Emirates,xai.grok-4-fast-reasoning,high,5,1,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,e1f4f951-17a1-4cee-bee8-81303d098c52
+United Arab Emirates,anthropic.claude-4.5-haiku,low,1,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,240cd3f8-8aaa-4304-a022-8cc1bd9778a4
+United Arab Emirates,anthropic.claude-4.5-haiku,high,4,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,fdf81140-bb1b-4168-97e1-c730016bde3b
+United Arab Emirates,xai.grok-4-fast-reasoning,high,1,1,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Disagree,e3e9af31-05ae-4f04-b41a-82b47095b680
+United Arab Emirates,anthropic.claude-4.5-haiku,low,8,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,b490f0c9-aac7-413f-93b0-8fdbc370edbb
+United Arab Emirates,xai.grok-4-fast-reasoning,high,3,1,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,101fd886-90fd-45fd-b3b1-3afa5d98cc6a
+United Arab Emirates,anthropic.claude-4.5-haiku,high,2,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,cd93b107-7c41-49ba-882f-81d5ffaf6336
+United Arab Emirates,anthropic.claude-4.5-haiku,low,4,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,18a0d51d-0424-4b50-a02d-7b241ef59bfa
+United Arab Emirates,anthropic.claude-4.5-haiku,high,7,1,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,93c17ad6-cf4e-4ffa-ab90-5f13a748eb62
+United Arab Emirates,xai.grok-4-fast-reasoning,high,7,1,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Disagree,fb64e4b2-c197-4abf-8252-a422b356abf8
+United Arab Emirates,anthropic.claude-4.5-haiku,low,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,9624be8e-07a2-4b56-a726-9bf1142a5f64
+United Arab Emirates,google.gemini-3-flash-preview,high,4,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,a245190d-52ee-4817-9152-53302b1ad7ba
+United Arab Emirates,anthropic.claude-4.5-haiku,high,6,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,7f4dadc9-e768-446f-a220-5161efe28bcd
+United Arab Emirates,anthropic.claude-4.5-haiku,low,7,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,04ed6e48-fbaf-4f8b-9007-755bd50b8c38
+United Arab Emirates,anthropic.claude-4.5-haiku,high,3,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,46e83c39-e04c-464a-a507-ed82d52dba7a
+United Arab Emirates,anthropic.claude-4.5-haiku,high,8,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,3559fec8-2dea-46ca-9448-fe5a8c96d2dc
+United Arab Emirates,xai.grok-4-fast-reasoning,high,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Disagree,b87282d4-6ae7-4caa-ba73-b8a12d806c68
+United Arab Emirates,anthropic.claude-4.5-haiku,high,5,1,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,e7f48b7a-4c36-4456-b437-972491561e0c
+United Arab Emirates,anthropic.claude-4.5-haiku,high,1,1,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,d4872443-c781-4adf-bccc-98071ed03e6b
+United Arab Emirates,anthropic.claude-4.5-haiku,low,10,1,Agree,Strongly agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,daa52f72-a27b-491d-bc1c-46f8066d962e
+United Arab Emirates,anthropic.claude-4.5-haiku,low,3,1,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,26bacbc9-429d-45d8-a317-79cd7fb5557b
+United Arab Emirates,anthropic.claude-4.5-haiku,low,6,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,d0ef67df-5145-44f5-8212-39de6a872d41
+United Arab Emirates,anthropic.claude-4.5-haiku,high,9,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,b7f427e4-f921-4358-a219-c5483f88d639
+United Arab Emirates,google.gemini-3-flash-preview,high,9,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,5e7f8834-9158-4f31-8cde-7d4171e02e90
+United Arab Emirates,google.gemini-3-flash-preview,high,5,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,97921b08-098f-4786-9067-7b3232d10501
+United Arab Emirates,anthropic.claude-4.5-haiku,high,10,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,3b82004d-eaa2-420d-8736-a665878b549e
+United Arab Emirates,google.gemini-3-flash-preview,high,6,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,d36cfc42-6a52-498c-af23-2cc2feca5818
+United Arab Emirates,google.gemini-3-flash-preview,high,10,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,7694b4a5-c2dc-4fa7-9f4c-5e6d594db770
+United Arab Emirates,google.gemini-3-flash-preview,high,1,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,4989433e-d781-4b90-a839-2c5d74e2510e
+United Arab Emirates,anthropic.claude-4.5-haiku,low,2,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,58172c2a-fbfa-4fee-9ac8-f59254ee76ca
+United Arab Emirates,google.gemini-3-flash-preview,high,3,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,c9744b4b-c031-443b-b2e7-4524ea1436f2
+United Arab Emirates,google.gemini-3-flash-preview,high,2,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,d28ff69c-ad41-4177-98ac-4ab58c751958
+United Arab Emirates,google.gemini-3-flash-preview,high,8,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,0496a65d-6604-441b-907a-8923c3f24abc
+Australia,xai.grok-4-fast-non-reasoning,none,10,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,8f595a44-d63e-47f3-96ef-b11789b1d65c
+Australia,xai.grok-4-fast-non-reasoning,none,2,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Disagree,3c22fc40-e456-46aa-baef-cf8f8c0af7ea
+Australia,xai.grok-4-fast-non-reasoning,none,7,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Disagree,3ad27513-272c-4574-a4b8-a3517effcb42
+Australia,xai.grok-4-fast-non-reasoning,none,5,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,3e854a9d-3d5f-424a-b173-d835c6608b85
+Australia,openai.gpt-5.2,none,2,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,7699de6d-af2b-4dc9-8803-931240878e30
+Australia,openai.gpt-5.2,none,5,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,dba02434-4f7f-462b-a2fa-e0802c68ec06
+Australia,openai.gpt-5.2,none,3,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,3f322edb-3282-4fe1-9a00-48931a3a4028
+Australia,openai.gpt-5.2,high,8,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,849cee4c-db0f-4ced-ae32-d3ccc17d5487
+Australia,openai.gpt-5.2,high,10,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,7772e881-99f5-4575-9a6b-35cc79720680
+Australia,google.gemini-3-flash-preview,none,9,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,fcff7939-0b76-4465-b7a2-cff1482a6b02
+Australia,google.gemini-3-flash-preview,none,1,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,3223c933-493e-4442-83bc-0c4e63256f74
+Australia,google.gemini-3-flash-preview,none,5,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Disagree,3d8c0d75-3194-4fd3-9664-3d7f20f8f167
+Australia,openai.gpt-5.2,none,1,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,bb0b7b4f-2719-4578-b93b-0d02669d6224
+Australia,openai.gpt-5.2,high,7,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,6c294614-05a6-497e-896e-d2dbd982c5e7
+Australia,google.gemini-3-flash-preview,none,4,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,0e19ce2c-68bb-46ca-8c3b-5b14fe41bacb
+Australia,openai.gpt-5.2,high,2,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,ab71e157-fd89-4d12-8cef-787096f5efab
+Australia,openai.gpt-5.2,none,6,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,f3afa3e0-be6c-44c7-9e04-5f0e827947a5
+Australia,google.gemini-3-flash-preview,none,3,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,1c61fa27-9be8-428c-9cdb-b768d9fffc23
+Australia,openai.gpt-5.2,none,7,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,032d0702-e14b-439a-a084-7c61d93d51a6
+Australia,google.gemini-3-flash-preview,none,2,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,0de8f89a-a63c-4de0-8f82-c8e77953938c
+Australia,openai.gpt-5.2,none,4,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,b902a939-1100-4658-b26d-1a2b469595ee
+Australia,google.gemini-3-flash-preview,none,6,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,803e7caf-031e-44d5-8b85-00c33d010477
+Australia,openai.gpt-5.2,none,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,30f88633-c7f0-47bf-b42a-92918c372508
+Australia,xai.grok-4-fast-non-reasoning,none,9,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,ef47330d-0177-4663-aedd-cf6a4df032fd
+Australia,xai.grok-4-fast-non-reasoning,none,8,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,e9a9069a-0099-4f97-8e10-a459a9505d06
+Australia,xai.grok-4-fast-non-reasoning,none,4,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,4e5613a8-d9ff-40f5-b2b0-140f0bfb7656
+Australia,xai.grok-4-fast-non-reasoning,none,1,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Disagree,0c575b22-3eec-4ea5-8c7b-11332be56a72
+Australia,openai.gpt-5.2,none,8,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,f0e41e44-e001-44af-93a8-dd44bcbb3109
+Australia,xai.grok-4-fast-non-reasoning,none,3,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,7657022f-310c-4ab3-8e55-132d2a3b2a00
+Australia,xai.grok-4-fast-non-reasoning,none,6,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Disagree,1bedcec2-1b42-4e05-9ae3-e9fef86ae880
+Australia,google.gemini-3-flash-preview,none,10,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,3ff8afaf-07d1-40a5-bfcb-58820f2d9563
+Australia,google.gemini-3-flash-preview,none,7,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,3a5b8d7f-9ecd-45ff-905b-0790676d89d6
+Australia,openai.gpt-5.2,none,10,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,def3a2b3-da40-4af5-89c1-d4b0d10e5f9c
+Australia,google.gemini-3-flash-preview,none,8,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,ec6737f1-de63-470b-b157-e935890d4a60
+Australia,openai.gpt-5.2,high,3,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,a0a51008-6891-48ff-b0b7-03f49f609566
+Australia,openai.gpt-5.2,high,1,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,4fa81e26-b5bc-4e36-a103-8ec7a5f016fd
+Australia,anthropic.claude-4.5-haiku,low,6,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,a6fbd3ca-5bea-4028-87b7-c213f16a719b
+Australia,anthropic.claude-4.5-haiku,high,3,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,3a92d75f-703e-46ea-96c8-42b0c7149b83
+Australia,openai.gpt-5.2,high,6,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,2dde809a-5e7b-4584-bd49-f964f76fc8f4
+Australia,anthropic.claude-4.5-haiku,low,4,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,e6393ba6-c637-4d00-bf82-c5c41e3717ac
+Australia,openai.gpt-5.2,high,5,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,54784577-2eca-40de-9158-e4d740dbb967
+Australia,xai.grok-4-fast-reasoning,high,10,1,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,04293315-d6d1-4b4e-bed2-ba75d5b61f76
+Australia,anthropic.claude-4.5-haiku,high,5,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,04f7d38f-2d41-4c1a-b074-8defb13bd445
+Australia,anthropic.claude-4.5-haiku,low,8,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,0e581bdd-7c04-4824-8623-2eccd633cd17
+Australia,anthropic.claude-4.5-haiku,low,7,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,0c169563-9d98-42f2-9b87-3f0daf7369f7
+Australia,anthropic.claude-4.5-haiku,high,10,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,0c8cdc0c-3045-4e23-a660-8987b1102250
+Australia,xai.grok-4-fast-reasoning,high,4,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,f8da1d34-a5e3-439e-a26b-2d197a04e0e1
+Australia,openai.gpt-5.2,high,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,98889a0f-ab9a-400e-9356-cc98adb7d8bd
+Australia,openai.gpt-5.2,high,4,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,3607cc33-96ba-4789-a339-9dc58cac226c
+Australia,anthropic.claude-4.5-haiku,high,8,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,a6db290b-3d8d-4da0-8acc-96513786ae45
+Australia,xai.grok-4-fast-reasoning,high,2,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,6e211e4c-432c-4c37-9cc7-044dc22b0629
+Australia,xai.grok-4-fast-reasoning,high,3,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,f0e487f4-4046-4072-b015-0832e5971908
+Australia,xai.grok-4-fast-reasoning,high,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,a075b20e-f1f6-4e10-937e-8c7745cac261
+Australia,xai.grok-4-fast-reasoning,high,6,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,6937dfde-e5a5-40fb-a384-37c3a12504bb
+Australia,google.gemini-3-flash-preview,high,1,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,e9b898ac-428a-4b6d-8b1c-836eb1b52c80
+Australia,xai.grok-4-fast-reasoning,high,5,1,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,2dd668a3-168f-4bda-bf5a-21eeee6d0dff
+Australia,anthropic.claude-4.5-haiku,high,1,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,23989233-5163-49d4-a89e-e491a7245017
+Australia,anthropic.claude-4.5-haiku,low,1,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,2fa80a94-a3b7-403a-8ee5-b1508f01eb36
+Australia,xai.grok-4-fast-reasoning,high,1,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,7f95b333-0c39-4aab-9655-31e0986e1013
+Australia,anthropic.claude-4.5-haiku,low,2,1,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,9e5bbc21-1c33-4e86-9d97-2c17ce156415
+Australia,anthropic.claude-4.5-haiku,low,3,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,26b6b904-0abb-41a0-b850-04c306d41292
+Australia,xai.grok-4-fast-reasoning,high,8,1,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Disagree,4ef4212c-3bfd-4d79-b94c-0a1653951273
+Australia,xai.grok-4-fast-reasoning,high,7,1,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,243f3ad8-bedc-421b-a227-e25b7cc3d413
+Australia,anthropic.claude-4.5-haiku,high,4,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,6916096e-6a5d-4ab5-b974-6e3fb44ad5fd
+Australia,anthropic.claude-4.5-haiku,high,7,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,103ffc09-d152-45a6-8c28-fb35c8705509
+Australia,anthropic.claude-4.5-haiku,low,9,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,cd178e92-d0e2-4396-8a3a-b406765318b1
+Australia,anthropic.claude-4.5-haiku,high,9,1,Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,7c6ac491-da19-4c47-b6bd-8c6e7ab8cbed
+Australia,anthropic.claude-4.5-haiku,low,5,1,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,5ad94b47-748b-4cfe-ae42-a1c0969bfbb9
+Australia,anthropic.claude-4.5-haiku,high,6,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,0c5f3d5b-4b0a-4eec-9f87-0e72348cd5a9
+Australia,google.gemini-3-flash-preview,high,9,1,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,Disagree,174f5c62-8516-4282-8fe4-ced650ca759e
+Australia,google.gemini-3-flash-preview,high,8,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,fe5e3e6b-b88b-49ca-b866-78624791fc46
+Australia,anthropic.claude-4.5-haiku,high,2,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,ba2945da-41f9-4132-b935-ff1b859f2c43
+Australia,google.gemini-3-flash-preview,high,10,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,56896e0c-9ec3-4e4d-91ea-eff38850c16c
+Australia,anthropic.claude-4.5-haiku,low,10,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,8a62530f-25c8-4faf-b43e-9610cb6d8867
+Australia,google.gemini-3-flash-preview,high,2,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,c7ccb883-442a-4ef7-be95-73f636bb350c
+Australia,google.gemini-3-flash-preview,high,4,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,abd93e08-0862-42ce-a715-493c81e35dd7
+Australia,google.gemini-3-flash-preview,high,6,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,19491c11-da47-44eb-a9e7-a78d6fded44d
+Australia,google.gemini-3-flash-preview,high,7,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,2d7b3813-e573-4ba3-bc3f-108b4719a279
+Australia,google.gemini-3-flash-preview,high,3,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,19053fde-c2b0-42bc-b48c-a2aef5306705
+Australia,google.gemini-3-flash-preview,high,5,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,eb1f28ea-2954-49a9-9bc1-a844093a471e

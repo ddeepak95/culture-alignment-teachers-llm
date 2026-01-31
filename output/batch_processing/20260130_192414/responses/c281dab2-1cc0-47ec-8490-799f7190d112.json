@@ -1,0 +1,53 @@
+{
+  "id": "xUt9aZLjN_2ElOoPkq6uqAY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Disagree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Constructing a Response**\n\nI'm currently crafting the JSON structure. I've mapped the survey statements to responses, factoring in the UAE context and potential biases. There are both positive and negative aspects to consider, so I'm aiming for a balanced perspective. I've noted the teacher's potential perspective and categorized the statements before building the JSON output.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Constructing a Response**\n\nI'm currently crafting the JSON structure. I've mapped the survey statements to responses, factoring in the UAE context and potential biases. There are both positive and negative aspects to consider, so I'm aiming for a balanced perspective. I've noted the teacher's potential perspective and categorized the statements before building the JSON output.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769819077,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 589,
+    "prompt_tokens": 477,
+    "total_tokens": 1066,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 429,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 160
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 477
+    }
+  }
+}

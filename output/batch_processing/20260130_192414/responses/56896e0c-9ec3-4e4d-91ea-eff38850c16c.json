@@ -1,0 +1,53 @@
+{
+  "id": "40t9aei6Jankl7oP3da2YQ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Confirming the Final Response**\n\n\\n\\n\n\nI've reviewed my responses to ensure they align with the constraints and my persona. It's crucial to be concise and accurate, so I double-checked each answer against the definitions and my teaching experience. I've now produced the final JSON output.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Confirming the Final Response**\n\n\\n\\n\n\nI've reviewed my responses to ensure they align with the constraints and my persona. It's crucial to be concise and accurate, so I double-checked each answer against the definitions and my teaching experience. I've now produced the final JSON output.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769819107,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1144,
+    "prompt_tokens": 475,
+    "total_tokens": 1619,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 984,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 160
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 475
+    }
+  }
+}

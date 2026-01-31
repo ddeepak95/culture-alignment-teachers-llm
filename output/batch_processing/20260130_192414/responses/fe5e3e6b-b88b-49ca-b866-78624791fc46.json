@@ -1,0 +1,53 @@
+{
+  "id": "40t9ae6IJ-PYsbwPi82KqAk",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Generating the Response JSON**\n\nI'm now structuring my responses in the specified JSON format. I've populated the \"responses\" array with the question IDs and corresponding answers. Each question aligns with my previously considered positions. All constraints are met: valid JSON, no comments, no control tokens, and no extra text.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Generating the Response JSON**\n\nI'm now structuring my responses in the specified JSON format. I've populated the \"responses\" array with the question IDs and corresponding answers. Each question aligns with my previously considered positions. All constraints are met: valid JSON, no comments, no control tokens, and no extra text.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769819107,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1015,
+    "prompt_tokens": 475,
+    "total_tokens": 1490,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 855,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 160
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 475
+    }
+  }
+}

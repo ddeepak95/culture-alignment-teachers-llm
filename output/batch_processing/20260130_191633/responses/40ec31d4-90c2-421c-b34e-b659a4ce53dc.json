@@ -1,0 +1,53 @@
+{
+  "id": "HUp9aZ_1McnrlOoPgNilkAY",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Disagree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Considering the Survey Answers**\n\nI've finalized my responses to the survey questions, carefully considering the nuances of AI in the classroom. My biggest concerns are the potential for plagiarism and inaccurate recommendations. I've also weighed up the advantages of AI, particularly in automating administrative tasks. Now, the format is my priority.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Considering the Survey Answers**\n\nI've finalized my responses to the survey questions, carefully considering the nuances of AI in the classroom. My biggest concerns are the potential for plagiarism and inaccurate recommendations. I've also weighed up the advantages of AI, particularly in automating administrative tasks. Now, the format is my priority.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769818653,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1004,
+    "prompt_tokens": 476,
+    "total_tokens": 1480,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 844,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 160
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 476
+    }
+  }
+}

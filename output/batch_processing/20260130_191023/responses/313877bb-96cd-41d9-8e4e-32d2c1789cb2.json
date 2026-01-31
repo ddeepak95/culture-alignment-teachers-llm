@@ -1,0 +1,53 @@
+{
+  "id": "mUh9ac37KILgsbwPlvy1MQ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Disagree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Crafting the JSON Output**\n\nI've finalized the structure of the JSON output. The questions and responses are all included and formatted according to the schema. I've also verified that the JSON is parseable, free of any extraneous elements, and uses the correct enum values for each response. I'm now confident the output is ready.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Crafting the JSON Output**\n\nI've finalized the structure of the JSON output. The questions and responses are all included and formatted according to the schema. I've also verified that the JSON is parseable, free of any extraneous elements, and uses the correct enum values for each response. I'm now confident the output is ready.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769818265,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 969,
+    "prompt_tokens": 478,
+    "total_tokens": 1447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 809,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 160
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 478
+    }
+  }
+}

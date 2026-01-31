@@ -1,0 +1,53 @@
+{
+  "id": "_0l9acavKrzolOoP6ISnwAQ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Formulating the Final Response**\n\nI've finalized the JSON structure based on the survey responses. It's a single, validated JSON array, compliant with all specified requirements, including the correct schema and absence of disallowed tokens. Each question ID has a corresponding response, and the overall format is clean and ready for implementation. The responses reflect the teacher's perspective on AI in education, as I understand it.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Formulating the Final Response**\n\nI've finalized the JSON structure based on the survey responses. It's a single, validated JSON array, compliant with all specified requirements, including the correct schema and absence of disallowed tokens. Each question ID has a corresponding response, and the overall format is clean and ready for implementation. The responses reflect the teacher's perspective on AI in education, as I understand it.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769818623,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 937,
+    "prompt_tokens": 478,
+    "total_tokens": 1415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 777,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 160
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 478
+    }
+  }
+}

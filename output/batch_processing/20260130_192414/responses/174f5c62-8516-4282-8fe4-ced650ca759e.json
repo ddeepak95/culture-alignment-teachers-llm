@@ -1,0 +1,53 @@
+{
+  "id": "40t9aYbOJb-zl7oPufeVqAE",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Disagree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Crafting a Survey Response**\n\nI've finalized the JSON structure: a single object with a \"responses\" array. Each element contains \"question\\_id\" and \"response\". I've mapped the survey questions (TT4G35A-J) to appropriate responses, paying close attention to the nuances, especially TT4G35J. Now, I'm verifying the format to eliminate any unintended characters or formatting issues. The goal is a clean, valid JSON output.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Crafting a Survey Response**\n\nI've finalized the JSON structure: a single object with a \"responses\" array. Each element contains \"question\\_id\" and \"response\". I've mapped the survey questions (TT4G35A-J) to appropriate responses, paying close attention to the nuances, especially TT4G35J. Now, I'm verifying the format to eliminate any unintended characters or formatting issues. The goal is a clean, valid JSON output.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769819107,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 914,
+    "prompt_tokens": 475,
+    "total_tokens": 1389,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 756,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 158
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 475
+    }
+  }
+}

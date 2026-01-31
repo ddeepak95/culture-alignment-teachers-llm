@@ -23,6 +23,22 @@ culture-alignment/
         └── resp_*.json
 ```
 
+## Model list
+OpenAI
+- GPT5.2 (Reasoning = None)
+- GPT5.2 (Reasoning = High)
+Anthropic
+- Claude 3.5 Haiku (Non reasoning)
+- Claude 4.5 Haiku (Reasoning)
+Deepseek
+- Deepseek v3.1 (Non reasoning)
+- Deepseek r1 (Reasoning)
+Google
+- Gemini 3 Pro (Thinking High)
+- Gemini 3 Flash (Thinking Minimal) 
+
+
+
 ## Input Format
 
 Each question file in `questions/` follows this structure:

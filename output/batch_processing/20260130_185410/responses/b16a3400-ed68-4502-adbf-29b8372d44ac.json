@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-695dd781-d611-4025-b5a9-cf8759f46407",
+  "created": 1769817276,
+  "model": "gpt-5.2",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "reasoning_content": "**Compiling teacher responses**\n\nI need to put together options for each statement as if I'm an Australian teacher. I should create a JSON structure that includes an array with question IDs and my responses. For the balance section, I want to express strong agreement on how AI helps with planning and administration, and agreement on adapting materials and supporting individual needs. In the risks section, I want to strongly agree about misrepresenting work and recommending incorrectly, and agree on issues like biases, privacy, and unsuitable pedagogical approaches."
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 228,
+    "prompt_tokens": 502,
+    "total_tokens": 730,
+    "completion_tokens_details": {
+      "reasoning_tokens": 74,
+      "text_tokens": null,
+      "image_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null
+    }
+  }
+}

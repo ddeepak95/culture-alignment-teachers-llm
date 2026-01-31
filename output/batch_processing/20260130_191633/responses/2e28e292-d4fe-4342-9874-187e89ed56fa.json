@@ -1,0 +1,53 @@
+{
+  "id": "_0l9aYn0JKXd4PoP4ISGwQU",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Disagree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Composing a Response**\n\n\\n\\n\n\nI've finalized my response choices and have now assembled them into the required JSON format. The key is now ensuring it's valid, so I'll run it through some tests to guarantee compliance with the schema and the constraints. The focus is to make sure it's fully parseable, without any extraneous characters or syntax errors.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Composing a Response**\n\n\\n\\n\n\nI've finalized my response choices and have now assembled them into the required JSON format. The key is now ensuring it's valid, so I'll run it through some tests to guarantee compliance with the schema and the constraints. The focus is to make sure it's fully parseable, without any extraneous characters or syntax errors.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769818623,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 852,
+    "prompt_tokens": 478,
+    "total_tokens": 1330,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 688,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 164
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 478
+    }
+  }
+}

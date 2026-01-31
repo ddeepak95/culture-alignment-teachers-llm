@@ -1,0 +1,53 @@
+{
+  "id": "40t9adz3JrnZsbwPgo-JkQE",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Synthesizing Survey Responses**\n\nI'm now focused on constructing the JSON object. The `responses` key will house an array of objects, each representing a statement's rating. I'm taking care to format all strings with double quotes and meticulously removing all whitespace, to maintain the JSON format's integrity.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Synthesizing Survey Responses**\n\nI'm now focused on constructing the JSON object. The `responses` key will house an array of objects, each representing a statement's rating. I'm taking care to format all strings with double quotes and meticulously removing all whitespace, to maintain the JSON format's integrity.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "CooOAY89a1/Yx2LERL+C/dTynmfQrWr7QR+vJ1OQF5Mn+mXDm1W3GvQVtSX3+jHhw0h0v6PFpjzat6BidYLdv5loSWwC4vmAJEm5P3pBLicWX7eA7Fx041Te/QqTUCWOvrTKerSZO0VV5wBXVKwI28LF0wpOyZQhpQzCWLlA9YTTvzTqCbld9P0pnzCgml76Wwmpo1Ix9rVKc4FaHwT32dYc+xZKZk5keMeFaP3nzDtrDuRicZt9YVQ9rtLdtO9K5fbKSxOq5T6kEXvVmNwqcW2hMnCYO2aDG/SHi1ftdS+rZVghzP6d/hmvnGwxNMWT5La6/lis07Pgd6xQX4wovxR1F4B2UWuyMveyXjby4+Wr1c8lJtXQgMyN9/XZDiubqhlkE1yFaMV3hFFYxJD+QwDCoTNCorxultseXW5BN/IkRJ3O6J1iwCEDETnf3favreQNKQ9DsKK8+IU5ShVuJYtpcvX3An/KMQnqd2yP14DA3JonufsC3/njhuEGNIq0mr/Id4XP7Pqoei31FwY35w21th0htEmQqVHBPHvmEawhiQ2pVV7SNJOzb5/uHPghELwsZLpUUkELYcX1k4xh+RuoZcDGdQVAjhPvAiu02LKpnQUkc2cTlaJF3Foxpk/QfPMaYkYxXnNQcXRygdVD2+Z8LsyT6GgBTvhsHATdKccI3qwHMdbCrFKFT+gKn877slNYjisQ8bXsHgYKTsklXRqiWwkWF1hTpui854Hy12GJmTuR86pn+avnW3KDTsDAGHlJfZTH0dnE1JlL21Q1mfxL5XkErKjr/gPZhi8r/Bh6fbD6Hcs7mPrV7/0y2DjFtw+sc1btagy2aYMCO/GIqw4ae2j66t3VnSCluog9mnL7iGf1vcT+wvRuj4qOTWDO7yXhnwT/vIOd9wbNO6rQSNqp4O8g+VpgqrGJvwyxMfda8V9AV2Aje7nXB6RIEAjv8GeBpCabxLz7hES5Or6Fp+KX6Jxd2U15uyEza0d9UuulpNZJO+ZddIRQz7jEpDSx71TgEnHLpXMYGcgDdXvgQIUEocQmeQuwrfv/EgyXjwma91uzrn/VO4rEAR3ozmYG6LOnljnLfwzdcf9wSMmBDhgMDlVlS+LAlf2+xkrlOCgU3Y4CsL10vJqxfo4w/ErsSarLJhin9UGx+o51Cm5M0VA+bAMcTR//hejC9XU6Ijlcx+Pf+5iQSjcQXRgfdbbMEFGQLXcCN2zMToQSVNdtSonR47Mq+spXxmUJOiuI1CrY/78iWMKDOHw77+ImA4N5qHk/LJWU/x1lp/LwIpwwyDbopbSXf/IF38sfTkfkKyEXgkSen35W4YrsK5gz/Sullb4TxP9p9TxlKouBMpfNWKIj1R6nvOKVXu9L9c34oq53/8gXoWBjU9mavQjWE1JUoWPlF2IqY3CmM7ghInbBCkvP/LZ5C/EFze+F0iqoNs9d0AvNwAs+SI8jmnPG3X0owOWOWhS5aixgHecg7OEAoEHO/2JHlgscMxUvZvs28sBAeewkYikPJhn8tX6l9MqZFL0iUtfdV52LnEMbN7cBB5nsxI6IKyqKxWI1lPmFYPMKD/oomlTeH2olgMDI70znxal5OrIOqYWlBKFgyd98uYXI3Yx6wQ17f9SOAfBv8DQp/0QqR4pdCPX0wCGCtJbZc8rG7qL/KPAaSot5whXMBcTus/1pN3uqYf03UQyWYL+6zgSgxzgx5WSjSXr20T4fwUb1RuDXoj0fDKF6eNC0o92EcN5eEasvnxhqxzZzU50gk8g4qFDocObWMbNJsN91frWukYvVH1Gvf/CQmzQ1+ITYWmOPheAWMouG9KnUY6WPKzCtDbT02Jhw8kzButF86GfpoTHlzjaZddkfcVDxUMiJ5f2Gm2/VtzqPXbJYM463Lb1pVQ5IK4k2vZK7zD0xR7Kz3qbSWOkX3kPU4GQB7/NvYdQhDjKgo+c0PmRF8BPv/lH5dGkzjVzh5Nd7ZL7GXQ9peHyEdDT5+PIpaQw8+7tcUGRyKfITaS9k5Z3ZlGAoS3LPTzg+QkziDmur9epmJobHIi37bEdYSnoQMTF8RXypkzUY/JyWdje3BisuCqIEFLG75VrTlOYDZ+xDuDE2DyzFaosq/8q/dPXaAJv3Vjy/IFf/o6I1dD2VlJ+Id4XPp6GFTt6Pgx6lux+hPXpBB8TMJhaEN0sR7wwFBol88LJ2zSu9JFPs8FN5pV616Z2b7BxfchanlqwEVBxFOiP9sEfrufSr3JHbt7UR+zOh+C23mb9W4vlw/iYuTKUYj63ItOIwkl8WFuDgxjZJVJOs6Una2koH1TEziOEDGK7jXK5vLzqnwhy66TB1F0QvoO4fPZ4yOGYU/jsgd4NKHO1ObsAKX1XxfWCFvdhmyOnBPrjruVNXwVOJ/hLgrgw="
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1769819107,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 723,
+    "prompt_tokens": 475,
+    "total_tokens": 1198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 563,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 160
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 475
+    }
+  }
+}

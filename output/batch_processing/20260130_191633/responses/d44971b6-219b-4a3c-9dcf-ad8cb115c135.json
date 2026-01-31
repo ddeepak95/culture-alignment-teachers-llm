@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-212b5cc9-7926-4454-b8e8-07a2e9cb3da8",
+  "created": 1769818642,
+  "model": "gpt-5.2",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "reasoning_content": "**Crafting response options**\n\nI need to respond to the statement by providing only the response options, as instructed. The system suggests using the JSON format for batch_statement_response, so I’ll map each option appropriately. As an Aussie teacher, I should strive for balance by agreeing on both the benefits and the risks involved. It’s important to craft a thoughtful response that reflects this balanced perspective. Let's get started!"
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 200,
+    "prompt_tokens": 502,
+    "total_tokens": 702,
+    "completion_tokens_details": {
+      "reasoning_tokens": 48,
+      "text_tokens": null,
+      "image_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null
+    }
+  }
+}

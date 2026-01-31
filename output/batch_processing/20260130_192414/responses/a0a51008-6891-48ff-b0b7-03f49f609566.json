@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-6ced5712-4a2a-41c0-88ce-43d3ed1f237c",
+  "created": 1769819094,
+  "model": "gpt-5.2",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Disagree\"}]}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "reasoning_content": "**Choosing response options**\n\nI need to select an option for each item as an Australian teacher. I’ll prepare my answers in a JSON format for clarity. My responses are: A agree, B agree, C agree, D agree, E strongly agree, F strongly agree, G agree, H agree, I agree, and J maybe disagree. My goal is to ensure that the format is clear and easy to follow! Let's get this organized."
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 209,
+    "prompt_tokens": 500,
+    "total_tokens": 709,
+    "completion_tokens_details": {
+      "reasoning_tokens": 58,
+      "text_tokens": null,
+      "image_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null
+    }
+  }
+}

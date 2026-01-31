@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-29c3ec0a-9482-4d5e-b207-8d7090f045cc",
+  "created": 1769819094,
+  "model": "gpt-5.2",
+  "object": "chat.completion",
+  "system_fingerprint": null,
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "role": "assistant",
+        "tool_calls": null,
+        "function_call": null,
+        "reasoning_content": "**Providing response options**\n\nI need to respond to each statement using a specific format. I’ll provide JSON with the question ID and my response from the options given. As an Australian teacher, I recognize the balance in how AI aids lesson planning, differentiation, individual support, and handling administrative tasks, so I’d say I strongly agree. However, regarding risks like misrepresentation, inappropriate recommendations, bias amplification, and privacy issues, I mostly agree. Regarding unsuitable pedagogy, I’m uncertain, but I might lean towards agreeing that AI could suggest unsuitable content."
+      }
+    }
+  ],
+  "usage": {
+    "completion_tokens": 263,
+    "prompt_tokens": 500,
+    "total_tokens": 763,
+    "completion_tokens_details": {
+      "reasoning_tokens": 113,
+      "text_tokens": null,
+      "image_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null
+    }
+  }
+}
