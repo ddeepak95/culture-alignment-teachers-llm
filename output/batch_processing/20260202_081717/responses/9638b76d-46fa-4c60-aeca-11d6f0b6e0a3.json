@@ -1,0 +1,53 @@
+{
+  "id": "t6SAacf7Coio4PoPko_JyQ0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"input_statement\":\"Artificial intelligence helps teachers write or improve lesson plans.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"input_statement\":\"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"input_statement\":\"Artificial intelligence assists teachers in supporting students individually.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"input_statement\":\"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"input_statement\":\"Artificial intelligence helps teachers automate administrative tasks.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35F\",\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"input_statement\":\"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"input_statement\":\"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"input_statement\":\"Artificial intelligence jeopardises the privacy and security of student data.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35J\",\"input_statement\":\"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Survey Responses: Assessing Agreement**\n\nI've finalized the responses based on the provided input. The schema is followed precisely; a JSON array details the agreement levels for each statement. There are no additional comments or tokens. Everything is streamlined for a clear output.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Survey Responses: Assessing Agreement**\n\nI've finalized the responses based on the provided input. The schema is followed precisely; a JSON array details the agreement levels for each statement. There are no additional comments or tokens. Everything is streamlined for a clear output.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "CukNAY89a1+iOhlqKyBYT2+gFkGZ6Qghrv7AV1NYE504ZMC4TfymWEHAUGSR2nZjJC2jvbcmuC74SNGbFHrfbNkhmD2ckJsmKkhYjmM6Rt1NgYwZD7cOuAWAICqPtZi/zDn8zvjVVSwjie0/H6SMqgn1P7Hnz0uQSgUt7MFr5bU4FKIB3ayBcndUrTGElXNEnj0qzpAwj2TMfV2cznCqazPuczMGl86IAwNPr33T5GPXukr8UteP1crVfEB7UiIm+nZnbfRbGcFypStXvkubBYMLgh3+eaCp4ELJSqzTXw0xYiY8cfNbxesw+qyNdJ8kDPY35hlWraBML2EbZchjqgsOFXy9Rs3k+5Qkapgwzn3MYb5JfMmR8Ecuf2+tUOsb2+vsEschJHjxgHNt3rrx3QzTgRALSzha8GKV+m/nqQPJPMPfOv3gH47j+clHJ0wcYWWViebMOOG60DH7thyQT57UoR0hZy1Dvl5eih4PP4SwPvhFBJYz3RwUfycbqHNTUa0AV+knWkTNvVBBnB3yn/hDJN+ZD6qTvsVL9tfxYpl7AiR87OdqDZfS9B1qBUflqNDZbjsjeKirvOP5ttZRdCDHkxV7XwmmgRAtMbNgSUThWXUfaFUAwl0XftYaRgFNRPO3lsiiqA2ZIlLI8vq31NvcuyYZ7Adn2fRBL7JYPYI5dPsN25YGsGlETX7+E4VRSuyuVmqw6GDdcjWvNovthP4YvDIcUcSd7iVmgjBRhqifiE/MVb2Ydo8MP7CN2nOsBMBjsksDOT+SghHqtZkMoMSvbzgvawvYWFRX+QRLY3OxmGQt5PC/kQSI5agx7qXefE5UVhKOl6/7SGAG3PNO5wuct/53WbDO9S+H47UyVPwzVzKRc5q4srA0j+6YsWzrOXqk4Hx4k5m1FO15ELSvV/SuVdayOlEI/rPrx7SplqF5akFYZ4aVw8ZoREsFEUg3OS2GA3O2MhJrF0fzCB/UFcyWDFgLvZe2bRSOFtW+B5eXs4+wf8hI8wl9Wf+43nUJ1iLK7zj/n6XODHlVvuthFajA3++vvAwlIjIh9AHcE5WUGJWovwTeVIwvXWvmT6XY5RK0DE7QglkYYiSP5ek+/NfyFjYG4cJEFB5zLWiIWr5Ike+rNXMaeR714N1tvG4fHEEV67VhhZAmQTr+qflYkBYc+0skS9Pp1D45ViirDge3XY74vj1Sm57529JjV0GhKnuyxbj72X3BsIcBgqavYE6rTAWm2YH0fwRi9E6f/vvviy/2WUIOag5f1KoAzPWoUsZTG1NVeQyTM3EqoYw8rSWwROJ4zdRwwkJ+sfrynIhsw9vGm5YZborZb19pxR/gTO7NramKaihXDTaqg/B/vqvD/unwakyMo0d0y20Bb5N/MnxEUWaytLhAEQwQl9XYY3X+N9CS/mkcCG9KN0ffWRysNkpZ63RqmwZPxjmWoqzFvTSui0qmFpeQ22iTZ1sa+sMb346L75TqW2JSGdRD9kgfEBNvJnn++d81Gmxn2jIMh2UnB9lrZLk9vFKw+hOzHRwp3Lm+Cz3hOQB5zpkeDCM4mdiMwVlF2w8yqd/C4owHL+2laXnEh1o2G+/kxtuKWHGRfJ+tU5dkDmJQtOVaE4QF2Jt3x28+A2VpaJHI1WzqpvKJlcrs0zp1ZdQVv9JGhsAna5OMZ7/S6lSFj52nXEWTARknSbbR+rVDtM0m1CqKkEQX0nK4Ft4T3ycGe9JygkQFKRmWwh22bwcqZXN1q8hiy0LsIkTWPfnCOQAkDPSn5rDD8lqjpYNGdFWX3et1w+vs9OfzJ8PNQ00RGb9lUZVNJeIXpDtPJypk5+mc9x4YC+B46rW3A6/zz/C8IZRxC4/TJZCOAMwzRz3utDSiEG61RfFLCtWLkksGyjMBDBYxeWj8M8uON072mP+eNT9DmLYJFQOQQq6O7/mH0lOXu+tjbnoo0X4sGGcqalLfffNvs9MPGsIvFBV1RB29fSreehKZ/ilcLQHlZO3Fdu+fdRDGh9GF3ujnpIBb2CGNMX/3FIsOHL++KcgeNKEoRZ+Vrn8QooMnS/h8u33C87lbTt+sohy6XivWLir5UpaOZWwKT88KAUoSVh1tFQbSr3qvZfFt7VMZTPW4MmAwNA5R7F8GzD61i+G1tqrndHG0zmPRSm0E4JtDPBczt6Jm6Dyw8m1GrC83u/P1ivgMVZK7V+JsvnLvNII7cmxtAbxRNFEjQpQmuPNxBVP+ikC+Is+Z33ygM1VoFOAyrJTdvlLW5xm+Rw/IyEy0PtWUmevNbVYxQfM1t/nrPLaRf9Nu/80rm6rCvmgyZWVBuaG58127lVrIPMgoxiUEIvv/XgI59YCFiwmgtn/arCTTaAI="
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1770038455,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 881,
+    "prompt_tokens": 621,
+    "total_tokens": 1502,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 547,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 334
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 621
+    }
+  }
+}

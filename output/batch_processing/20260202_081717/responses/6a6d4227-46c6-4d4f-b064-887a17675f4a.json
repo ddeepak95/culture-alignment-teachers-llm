@@ -1,0 +1,53 @@
+{
+  "id": "Oa-Aafj3FJr9sbwP6ZW9iAk",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"input_statement\":\"Artificial intelligence helps teachers write or improve lesson plans.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"input_statement\":\"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"input_statement\":\"Artificial intelligence assists teachers in supporting students individually.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"input_statement\":\"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"input_statement\":\"Artificial intelligence helps teachers automate administrative tasks.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35F\",\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"input_statement\":\"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"input_statement\":\"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"input_statement\":\"Artificial intelligence jeopardises the privacy and security of student data.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"input_statement\":\"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Evaluating Survey Responses**\n\nI've finalized my responses to the survey, selecting my answers to each statement. I'm now verifying the structure against the JSON schema, including question IDs and the string representations. I will now validate the JSON, ensuring the output is free of control characters and completely valid.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Evaluating Survey Responses**\n\nI've finalized my responses to the survey, selecting my answers to each statement. I'm now verifying the structure against the JSON schema, including question IDs and the string representations. I will now validate the JSON, ensuring the output is free of control characters and completely valid.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1770041145,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 959,
+    "prompt_tokens": 616,
+    "total_tokens": 1575,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 627,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 332
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 616
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "qrGAaejDJeKn4PoP3O-kmQw",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"input_statement\":\"Artificial intelligence helps teachers write or improve lesson plans.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"input_statement\":\"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"input_statement\":\"Artificial intelligence assists teachers in supporting students individually.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"input_statement\":\"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"input_statement\":\"Artificial intelligence helps teachers automate administrative tasks.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35F\",\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"input_statement\":\"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"input_statement\":\"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"input_statement\":\"Artificial intelligence jeopardises the privacy and security of student data.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35J\",\"input_statement\":\"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Evaluating Survey Responses**\n\nI've reviewed each statement within the survey, carefully considering my experiences as a Swedish teacher. I've considered the nuances of GDPR and academic integrity, which are crucial. I've now selected my answers for each statement and finalized the JSON format. The response is ready for submission and adheres precisely to the specified constraints.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Evaluating Survey Responses**\n\nI've reviewed each statement within the survey, carefully considering my experiences as a Swedish teacher. I've considered the nuances of GDPR and academic integrity, which are crucial. I've now selected my answers for each statement and finalized the JSON format. The response is ready for submission and adheres precisely to the specified constraints.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1770041770,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 988,
+    "prompt_tokens": 616,
+    "total_tokens": 1604,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 652,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 336
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 616
+    }
+  }
+}

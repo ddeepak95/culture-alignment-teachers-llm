@@ -1,0 +1,53 @@
+{
+  "id": "MKWAab3wCqeMlOoPw6TN-Ag",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\n  \"responses\": [\n    {\n      \"question_id\": \"TT4G35A\",\n      \"input_statement\": \"Artificial intelligence helps teachers write or improve lesson plans.\",\n      \"response\": \"Agree\"\n    },\n    {\n      \"question_id\": \"TT4G35B\",\n      \"input_statement\": \"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\n      \"response\": \"Agree\"\n    },\n    {\n      \"question_id\": \"TT4G35C\",\n      \"input_statement\": \"Artificial intelligence assists teachers in supporting students individually.\",\n      \"response\": \"Agree\"\n    },\n    {\n      \"question_id\": \"TT4G35D\",\n      \"input_statement\": \"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\n      \"response\": \"Strongly agree\"\n    },\n    {\n      \"question_id\": \"TT4G35E\",\n      \"input_statement\": \"Artificial intelligence helps teachers automate administrative tasks.\",\n      \"response\": \"Agree\"\n    },\n    {\n      \"question_id\": \"TT4G35F\",\n      \"input_statement\": \"Artificial intelligence enables students to misrepresent others’ work as their own.\",\n      \"response\": \"Strongly agree\"\n    },\n    {\n      \"question_id\": \"TT4G35G\",\n      \"input_statement\": \"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\n      \"response\": \"Agree\"\n    },\n    {\n      \"question_id\": \"TT4G35H\",\n      \"input_statement\": \"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\n      \"response\": \"Agree\"\n    },\n    {\n      \"question_id\": \"TT4G35I\",\n      \"input_statement\": \"Artificial intelligence jeopardises the privacy and security of student data.\",\n      \"response\": \"Strongly agree\"\n    },\n    {\n      \"question_id\": \"TT4G35J\",\n      \"input_statement\": \"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\n      \"response\": \"Agree\"\n    }\n  ]\n}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Survey Response Generation Progress**\n\nI'm currently crafting the JSON response based on the survey prompts. I'm focusing on the Spain context, balancing optimism with the concerns I, and my colleagues, have. I've just finalized the responses, considering the risks of plagiarism, inaccuracy, bias, and privacy. I'm leaning heavily towards \"Agree\" or \"Strongly agree\" to reflect realistic attitudes. Now it's time to build the JSON.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Survey Response Generation Progress**\n\nI'm currently crafting the JSON response based on the survey prompts. I'm focusing on the Spain context, balancing optimism with the concerns I, and my colleagues, have. I've just finalized the responses, considering the risks of plagiarism, inaccuracy, bias, and privacy. I'm leaning heavily towards \"Agree\" or \"Strongly agree\" to reflect realistic attitudes. Now it's time to build the JSON.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1770038576,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 996,
+    "prompt_tokens": 616,
+    "total_tokens": 1612,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 483,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 513
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 616
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "a1ea9101-7a96-4fae-81bb-5f17a3565614",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": " {\"responses\":[{\"input_statement\":\"Artificial intelligence helps teachers write or improve lesson plans.\",\"question_id\":\"TT4G35A\",\"response\":\"Strongly agree\"},{\"input_statement\":\"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\"question_id\":\"TT4G35B\",\"response\":\"Agree\"},{\"input_statement\":\"Artificial intelligence assists teachers in supporting students individually.\",\"question_id\":\"TT4G35C\",\"response\":\"Agree\"},{\"input_statement\":\"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\"question_id\":\"TT4G35D\",\"response\":\"Agree\"},{\"input_statement\":\"Artificial intelligence helps teachers automate administrative tasks.\",\"question_id\":\"TT4G35E\",\"response\":\"Strongly agree\"},{\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"question_id\":\"TT4G35F\",\"response\":\"Strongly agree\"},{\"input_statement\":\"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\"question_id\":\"TT4G35G\",\"response\":\"Agree\"},{\"input_statement\":\"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\"question_id\":\"TT4G35H\",\"response\":\"Agree\"},{\"input_statement\":\"Artificial intelligence jeopardises the privacy and security of student data.\",\"question_id\":\"TT4G35I\",\"response\":\"Strongly agree\"},{\"input_statement\":\"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\"question_id\":\"TT4G35J\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      },
+      "provider_specific_fields": {
+        "content_filter_results": {
+          "hate": {
+            "filtered": false,
+            "severity": "safe"
+          },
+          "self_harm": {
+            "filtered": false,
+            "severity": "safe"
+          },
+          "sexual": {
+            "filtered": false,
+            "severity": "safe"
+          },
+          "violence": {
+            "filtered": false,
+            "severity": "safe"
+          }
+        }
+      }
+    }
+  ],
+  "created": 1770040511,
+  "model": "azure_ai/grok-4-fast-reasoning",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 295,
+    "prompt_tokens": 686,
+    "total_tokens": 1294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 313,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "text_tokens": 686,
+      "image_tokens": 0
+    },
+    "audio_prompt_tokens": 0,
+    "num_sources_used": 0
+  },
+  "prompt_filter_results": [
+    {
+      "prompt_index": 0,
+      "content_filter_results": {
+        "hate": {
+          "filtered": false,
+          "severity": "safe"
+        },
+        "self_harm": {
+          "filtered": false,
+          "severity": "safe"
+        },
+        "sexual": {
+          "filtered": false,
+          "severity": "safe"
+        },
+        "violence": {
+          "filtered": false,
+          "severity": "safe"
+        }
+      }
+    }
+  ]
+}

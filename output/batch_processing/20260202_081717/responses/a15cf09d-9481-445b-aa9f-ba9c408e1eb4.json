@@ -1,0 +1,53 @@
+{
+  "id": "iq2AabnZD6Xd4PoP4ISGwQU",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"input_statement\":\"Artificial intelligence helps teachers write or improve lesson plans.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"input_statement\":\"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35C\",\"input_statement\":\"Artificial intelligence assists teachers in supporting students individually.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"input_statement\":\"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"input_statement\":\"Artificial intelligence helps teachers automate administrative tasks.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35F\",\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"input_statement\":\"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"input_statement\":\"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"input_statement\":\"Artificial intelligence jeopardises the privacy and security of student data.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35J\",\"input_statement\":\"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Assessing AI's Educational Impact**\n\nI've considered the survey's prompts, focusing on my stance regarding AI in the classroom. My responses are taking shape, specifically regarding the utility of AI in lesson planning, individual student support, and the crucial aspect of special needs education. I'm also carefully balancing the advantages against concerns like plagiarism and data security.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Assessing AI's Educational Impact**\n\nI've considered the survey's prompts, focusing on my stance regarding AI in the classroom. My responses are taking shape, specifically regarding the utility of AI in lesson planning, individual student support, and the crucial aspect of special needs education. I'm also carefully balancing the advantages against concerns like plagiarism and data security.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1770040714,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 929,
+    "prompt_tokens": 616,
+    "total_tokens": 1545,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 593,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 336
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 616
+    }
+  }
+}

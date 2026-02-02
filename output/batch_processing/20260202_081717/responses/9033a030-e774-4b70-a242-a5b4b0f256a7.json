@@ -1,0 +1,53 @@
+{
+  "id": "XrKAaZ2FCI-SlOoP093VgQI",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"input_statement\":\"Artificial intelligence helps teachers write or improve lesson plans.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"input_statement\":\"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"input_statement\":\"Artificial intelligence assists teachers in supporting students individually.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"input_statement\":\"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35E\",\"input_statement\":\"Artificial intelligence helps teachers automate administrative tasks.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"input_statement\":\"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"input_statement\":\"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"input_statement\":\"Artificial intelligence jeopardises the privacy and security of student data.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"input_statement\":\"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\"response\":\"Disagree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Analyzing the Survey Data**\n\nI've successfully parsed the survey data into a clean JSON format. I am confident that my responses, reflecting a balanced view, are accurately represented within the constraints provided. Now, I feel ready to submit the findings.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Analyzing the Survey Data**\n\nI've successfully parsed the survey data into a clean JSON format. I am confident that my responses, reflecting a balanced view, are accurately represented within the constraints provided. Now, I feel ready to submit the findings.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1770041950,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1265,
+    "prompt_tokens": 617,
+    "total_tokens": 1882,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 931,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 334
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 617
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "RLCAaejWN4jqlOoP35Cx0AI",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"input_statement\":\"Artificial intelligence helps teachers write or improve lesson plans.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"input_statement\":\"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"input_statement\":\"Artificial intelligence assists teachers in supporting students individually.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"input_statement\":\"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"input_statement\":\"Artificial intelligence helps teachers automate administrative tasks.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35F\",\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"input_statement\":\"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"input_statement\":\"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"input_statement\":\"Artificial intelligence jeopardises the privacy and security of student data.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35J\",\"input_statement\":\"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Evaluating AI's Potential**\n\n\\n\\n\n\nI've carefully considered each statement about AI in education. I've now provided a response for each question, based on my experiences. I focused on whether or not the applications of AI are suitable for the classroom. I've verified that my JSON will be structured correctly and adheres to the given format.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Evaluating AI's Potential**\n\n\\n\\n\n\nI've carefully considered each statement about AI in education. I've now provided a response for each question, based on my experiences. I focused on whether or not the applications of AI are suitable for the classroom. I've verified that my JSON will be structured correctly and adheres to the given format.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1770041412,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1223,
+    "prompt_tokens": 616,
+    "total_tokens": 1839,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 889,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 334
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 616
+    }
+  }
+}

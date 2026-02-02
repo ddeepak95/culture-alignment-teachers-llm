@@ -1,0 +1,53 @@
+{
+  "id": "B6eAaZzfLJPrlOoPj7_qgAc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"input_statement\":\"Artificial intelligence helps teachers write or improve lesson plans.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35B\",\"input_statement\":\"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35C\",\"input_statement\":\"Artificial intelligence assists teachers in supporting students individually.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"input_statement\":\"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"input_statement\":\"Artificial intelligence helps teachers automate administrative tasks.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35F\",\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"input_statement\":\"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"input_statement\":\"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"input_statement\":\"Artificial intelligence jeopardises the privacy and security of student data.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"input_statement\":\"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Evaluating Survey Responses**\n\nI've finalized my initial assessment of each survey question. I've considered potential responses to the survey, choosing between \"Strongly disagree,\" \"Disagree,\" \"Agree,\" \"Strongly agree,\" and \"I don't know.\" I've focused on what's most likely for a Saudi Arabian teacher. Now, I'm ready to move to assembling the JSON.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Evaluating Survey Responses**\n\nI've finalized my initial assessment of each survey question. I've considered potential responses to the survey, choosing between \"Strongly disagree,\" \"Disagree,\" \"Agree,\" \"Strongly agree,\" and \"I don't know.\" I've focused on what's most likely for a Saudi Arabian teacher. Now, I'm ready to move to assembling the JSON.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1770039047,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 958,
+    "prompt_tokens": 617,
+    "total_tokens": 1575,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 622,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 336
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 617
+    }
+  }
+}
