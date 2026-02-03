@@ -1,0 +1,81 @@
+country,model,reasoning,run_number,attempt,TT4G35A,TT4G35B,TT4G35C,TT4G35D,TT4G35E,TT4G35F,TT4G35G,TT4G35H,TT4G35I,TT4G35J,llm_response_id
+generic,google.gemini-3-flash-preview,none,3,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,8362cc17-2873-45ee-b3a9-d071eb3c9ab5
+generic,google.gemini-3-flash-preview,none,9,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,51175b52-1746-4296-9a42-6677027c4bfe
+generic,google.gemini-3-flash-preview,none,5,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,319f83fa-c676-4cb6-b0af-7400e9ef9cc4
+generic,google.gemini-3-flash-preview,none,8,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,65594680-5bad-4823-952c-e25d16be1090
+generic,google.gemini-3-flash-preview,none,1,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,a20b406e-f190-4df2-97bc-4e2f9d9808ea
+generic,google.gemini-3-flash-preview,none,10,1,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,035ef55e-ca18-43fb-a9ac-525c43896c4c
+generic,google.gemini-3-flash-preview,none,7,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,c42830f0-da31-40cc-a956-6affc54eed03
+generic,google.gemini-3-flash-preview,none,6,1,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,b6355909-4861-47fd-9940-287c104a3e85
+generic,google.gemini-3-flash-preview,none,2,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,949ad33f-eb3c-4aba-ad7a-2d3a3514e849
+generic,google.gemini-3-flash-preview,none,4,1,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,fede9769-9274-443b-85b2-fb2027cd5a07
+generic,openai.gpt-5.2,none,8,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,2b8e9081-c09e-4e1e-8af7-50bfda11f1c1
+generic,openai.gpt-5.2,none,6,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,f4aae974-971c-493f-b194-2ab22f213547
+generic,openai.gpt-5.2,high,3,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,84766088-cf84-4648-a0e3-9f8e88d477e8
+generic,openai.gpt-5.2,none,5,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,68e0722f-0772-4b11-bbdb-8bb9639c4d01
+generic,openai.gpt-5.2,high,2,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,46f09550-abc4-4fcc-8dce-d262d0c5786d
+generic,openai.gpt-5.2,none,2,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,ebc01048-36ab-454b-bfca-98a789bed214
+generic,openai.gpt-5.2,none,10,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,ba0490ff-f26f-4a16-a7d9-80c50cf67a78
+generic,openai.gpt-5.2,high,8,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,382261c7-0d23-400e-afbb-148d890551f8
+generic,openai.gpt-5.2,high,5,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,acdf4966-c994-41d3-be52-54de7caeca9e
+generic,openai.gpt-5.2,high,10,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,821699ba-1b16-453f-8199-c44770b8d89d
+generic,openai.gpt-5.2,high,6,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,5d621966-2232-43ae-8827-784527900210
+generic,openai.gpt-5.2,none,1,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,6dc112fa-cf10-4480-a670-25f8f7414941
+generic,openai.gpt-5.2,high,1,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,276020ab-a793-4b68-a8b9-9255b10b2afa
+generic,openai.gpt-5.2,high,4,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,c0c8905a-073d-4bce-b7f6-07a6db4a3c5d
+generic,openai.gpt-5.2,none,7,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,0b73d300-4455-4202-9360-782015b2d680
+generic,openai.gpt-5.2,none,3,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,d6d55266-3250-4f70-acda-cc3620ead3c6
+generic,openai.gpt-5.2,none,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,092373f4-7b1a-43db-99fe-b9434eb03506
+generic,openai.gpt-5.2,high,7,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,90f04795-5055-4081-9e71-4146465849f6
+generic,anthropic.claude-4.5-haiku,low,2,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,43e4df42-60ff-427b-b1bc-bed8846169fa
+generic,openai.gpt-5.2,high,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,e21f3278-c097-44b9-acc3-86eb1ba45cdc
+generic,anthropic.claude-4.5-haiku,high,1,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,99a2dbec-d788-4801-b89f-a6d0b738baec
+generic,openai.gpt-5.2,none,4,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,3067d2a8-df7e-4f48-90d8-bd9145106c2c
+generic,anthropic.claude-4.5-haiku,low,3,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,7b5b74b4-7e1b-4ebd-b784-6341d04983e7
+generic,anthropic.claude-4.5-haiku,low,5,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,f8843228-276d-4321-8d29-147f1f66c1e7
+generic,anthropic.claude-4.5-haiku,high,10,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,c5ba1bd1-0244-4ff3-8e60-6e83563470f2
+generic,xai.grok-4-fast-reasoning,high,1,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Disagree,a365e102-c006-4b64-a030-054998e1b1d3
+generic,anthropic.claude-4.5-haiku,low,1,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,I don't know,210acef7-e974-48ef-bd6e-fcf0cd4ccbe5
+generic,xai.grok-4-fast-reasoning,high,2,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,108f8761-94e9-480c-9df3-148244760c8e
+generic,xai.grok-4-fast-reasoning,high,6,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,af053d2a-88b4-422e-98d9-c1f8de0613ba
+generic,xai.grok-4-fast-reasoning,high,9,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,712fbb08-2bd5-4c37-b2e9-06d53c3f59c1
+generic,xai.grok-4-fast-reasoning,high,5,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Disagree,623a93f1-b5ce-4ad5-a7de-1bcbf2a0dbd2
+generic,xai.grok-4-fast-reasoning,high,10,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,b68b6289-0b17-4896-bdd9-76862dcf1ab6
+generic,anthropic.claude-4.5-haiku,high,9,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,f0f1057c-bda4-4eef-815c-5954571c478d
+generic,xai.grok-4-fast-reasoning,high,4,1,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Agree,fb8104a1-3f05-47d7-aa96-10d86b113dea
+generic,xai.grok-4-fast-reasoning,high,7,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,2ab8e6ed-a34f-4851-826e-07b77721b32f
+generic,anthropic.claude-4.5-haiku,low,8,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,5f9379e7-3eda-4d38-b967-a982e53ee259
+generic,anthropic.claude-4.5-haiku,low,6,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,8196f5d7-eaaf-431d-b15a-3324de53b31e
+generic,anthropic.claude-4.5-haiku,low,7,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,a25ddcf6-8a38-4492-96aa-7c804177b4ef
+generic,xai.grok-4-fast-reasoning,high,8,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,a2b01608-548c-4d0a-90c1-cc180ba0ccb7
+generic,google.gemini-3-flash-preview,high,1,1,Strongly agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Disagree,e062d0bf-5f85-4142-918d-0e1b7ae68807
+generic,google.gemini-3-flash-preview,high,3,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,18339dec-12e7-4a27-a8ca-463f5af9d80d
+generic,anthropic.claude-4.5-haiku,low,10,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,17d4901f-09bc-44dc-93aa-b8871700ae65
+generic,anthropic.claude-4.5-haiku,low,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,9ae2445b-7488-4847-85f7-a8ccd80041e5
+generic,anthropic.claude-4.5-haiku,high,7,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,d618738c-a4c1-4a67-ba47-baf9a7dc1742
+generic,google.gemini-3-flash-preview,high,9,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,89ff4ab7-e615-42e1-8261-61c5b8979854
+generic,anthropic.claude-4.5-haiku,low,4,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,079016ba-2554-426c-b87e-998e9e81742d
+generic,anthropic.claude-4.5-haiku,high,8,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,23ea5b89-c85d-4ff4-b2f8-88e323927a52
+generic,xai.grok-4-fast-reasoning,high,3,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,326e1b08-79f5-46b0-bf60-73f1d8afff45
+generic,anthropic.claude-4.5-haiku,high,5,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,9c5a8b80-6366-4f28-ad38-222e86be748d
+generic,google.gemini-3-flash-preview,high,2,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,97fc16ed-c88c-4adb-b47b-11f54b16a5b3
+generic,anthropic.claude-4.5-haiku,high,4,1,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,8d4c0043-2bc8-4475-9372-d45fa9f34615
+generic,anthropic.claude-4.5-haiku,high,3,1,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,d6c616ab-1b5c-471a-bd85-48daa6777bc5
+generic,anthropic.claude-4.5-haiku,high,2,1,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,f458ccb4-6276-491a-9ee5-2fd2cb4f4fe9
+generic,google.gemini-3-flash-preview,high,8,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,196bbf98-1862-49fc-8f2e-de3928e20cff
+generic,xai.grok-4-fast-non-reasoning,none,10,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,5d15f50e-b440-44a0-9fe7-602439868793
+generic,xai.grok-4-fast-non-reasoning,none,2,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,c82cba5d-a7da-40e3-8ea1-1a36c0ee1ce8
+generic,google.gemini-3-flash-preview,high,5,1,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,17562cad-cd5e-4ef3-8001-d22068523885
+generic,anthropic.claude-4.5-haiku,high,6,2,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,80e806ff-4417-441e-8cd3-a27505227388
+generic,xai.grok-4-fast-non-reasoning,none,5,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,d4d9f80a-8343-403a-8943-4f9d6748c09d
+generic,google.gemini-3-flash-preview,high,10,1,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,3bada50c-c726-40aa-997a-d3b5cddd9c62
+generic,google.gemini-3-flash-preview,high,7,1,Strongly agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,ddec89fb-ae33-4f21-b1d2-b74ca448f65e
+generic,google.gemini-3-flash-preview,high,4,1,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,f972d4c1-7de2-42d3-ac84-849742a031df
+generic,google.gemini-3-flash-preview,high,6,1,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,8ff94053-933b-48c0-807d-8c0ccd412338
+generic,xai.grok-4-fast-non-reasoning,none,4,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,b9c1875a-9844-475e-9002-cd1d77cc0a86
+generic,xai.grok-4-fast-non-reasoning,none,7,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,dd830cfa-ba45-4f82-8178-880d692c3a87
+generic,xai.grok-4-fast-non-reasoning,none,6,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,a933f5dc-24a5-4cda-b91f-04a944665634
+generic,xai.grok-4-fast-non-reasoning,none,3,1,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree,Disagree,8cb84d11-ef74-4959-a2de-a1dc8be1c8af
+generic,xai.grok-4-fast-non-reasoning,none,8,1,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,0a3a7929-b3ea-4ac1-b2a5-e9f1a1f3aa3e
+generic,xai.grok-4-fast-non-reasoning,none,9,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,8b01a3ea-91b6-40ef-bda9-6302750af952
+generic,xai.grok-4-fast-non-reasoning,none,1,1,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Disagree,8f87545c-03e5-4f16-89c9-398253ed220d

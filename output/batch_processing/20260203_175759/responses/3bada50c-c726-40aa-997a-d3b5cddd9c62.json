@@ -1,0 +1,53 @@
+{
+  "id": "mH2CadObCcXcsbwPhY7O6Qo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"responses\":[{\"question_id\":\"TT4G35A\",\"input_statement\":\"Artificial intelligence helps teachers write or improve lesson plans.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35B\",\"input_statement\":\"Artificial intelligence enables teachers to adapt learning material to different students’ abilities.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35C\",\"input_statement\":\"Artificial intelligence assists teachers in supporting students individually.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35D\",\"input_statement\":\"Artificial intelligence supports students with specific needs (e.g. multilingual learners, students with special education needs).\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35E\",\"input_statement\":\"Artificial intelligence helps teachers automate administrative tasks.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35F\",\"input_statement\":\"Artificial intelligence enables students to misrepresent others’ work as their own.\",\"response\":\"Strongly agree\"},{\"question_id\":\"TT4G35G\",\"input_statement\":\"Artificial intelligence makes recommendations that may not be appropriate or correct.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35H\",\"input_statement\":\"Artificial intelligence amplifies biases that reinforce students’ misconceptions.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35I\",\"input_statement\":\"Artificial intelligence jeopardises the privacy and security of student data.\",\"response\":\"Agree\"},{\"question_id\":\"TT4G35J\",\"input_statement\":\"Artificial intelligence suggests unsuitable pedagogical approaches that teachers would use with students.\",\"response\":\"Agree\"}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "**Considering the Format**\n\n\\n\\n\n\nI'm now focused on constructing the JSON object that accurately represents my responses within the specified schema. I've re-examined the prompt to ensure complete understanding of the structure. I'm double-checking the single-object requirement and confirming the correct formatting. It's almost ready for rendering.\n\n\n",
+        "thinking_blocks": [
+          {
+            "type": "thinking",
+            "thinking": "**Considering the Format**\n\n\\n\\n\n\nI'm now focused on constructing the JSON object that accurately represents my responses within the specified schema. I've re-examined the prompt to ensure complete understanding of the structure. I'm double-checking the single-object requirement and confirming the correct formatting. It's almost ready for rendering.\n\n\n"
+          }
+        ],
+        "provider_specific_fields": {
+          "thought_signatures": [
+            "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"
+          ]
+        }
+      }
+    }
+  ],
+  "created": 1770159511,
+  "model": "gemini-3-flash-preview",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1487,
+    "prompt_tokens": 614,
+    "total_tokens": 2101,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 1153,
+      "rejected_prediction_tokens": null,
+      "text_tokens": 334
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": null,
+      "text_tokens": 614
+    }
+  }
+}
